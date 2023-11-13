@@ -1,0 +1,5 @@
+matplotlib
+random
+simpy
+
+#pip install -r requirements.txt
