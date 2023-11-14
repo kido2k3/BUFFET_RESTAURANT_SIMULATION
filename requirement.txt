@@ -1,5 +1,6 @@
 matplotlib
 random
 simpy
+numpy
 
 #pip install -r requirements.txt

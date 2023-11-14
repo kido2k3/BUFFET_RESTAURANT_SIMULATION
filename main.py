@@ -1,12 +1,13 @@
 import simpy
 import random
-
+import numpy
 
 TIME_INTERVAL = [30/60, 100/60, 30/60, 15/60, 5/60]
 # --> the lambda of exponential distribution
 TIME_CAN_WAIT = 8
 RANDOM_SEED = 42
-random.seed(RANDOM_SEED)
+RATE_TAKING_FOOD = [0.9, 0.8, 0.99, 0.85]
+# random.seed(RANDOM_SEED)
 
 '''
 brief:  
@@ -22,17 +23,26 @@ brief:
     Function:
         set_waiting_time: set the waiting time in current queue, and update the rate if waiting too long
         reset_waiting_time: reset the waiting time before each queue
+        classify: classify a customer whether he/she will take particular food following the probability
 '''
 
 
 class Customer:
+
     def __init__(self, id, arrival_time=0):
         self.id = id
         self.arrival_time = arrival_time
         self.waiting_time = 0
         self.rating = 5
         self.left_time = 0
-        self.take_food = [1, 1, 1, 1]
+        self.taking_food = [1, 1, 1, 1]
+
+    def classify(self):
+        for i in range(4):
+            rate = RATE_TAKING_FOOD[i]
+            self.taking_food[i] = numpy.random.choice(
+                a=[0, 1], p=[1-rate, rate])
+            # print(self.taking_food[i])
 
     def set_waiting_time(self, waiting_time):
         self.waiting_time = waiting_time
@@ -77,6 +87,7 @@ def generate(env, customers, TIME_INTERVAL, server_generator, restaurant):
         i = 0
         while True:
             consumer = Customer(i, arrival_time=env.now)
+            consumer.classify()
             customers.append(consumer)
             print(
                 f'Customer {consumer.id:3} arrived at {consumer.arrival_time:7.3f}')
