@@ -1,5 +1,4 @@
 matplotlib
-random
 simpy
 numpy
 
