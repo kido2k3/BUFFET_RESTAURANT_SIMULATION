@@ -8,7 +8,7 @@ TIME_INTERVAL = [30/60, 100/60, 30/60, 15/60, 2/60]
 TIME_CAN_WAIT = 8/60
 RANDOM_SEED = 42
 RATE_TAKING_FOOD = [0.9, 0.8, 0.99, 0.85]
-MAX_QUEUE_SIZE = 5
+MAX_QUEUE_SIZE = 10 #currently only used for ticket queue-  maximium number of customers in ALL of the ticket queue 
 
 # random.seed(RANDOM_SEED)
 
@@ -45,7 +45,7 @@ class Customer:
             rate = RATE_TAKING_FOOD[i]
             self.taking_food[i] = numpy.random.choice(
                 a=[0, 1], p=[1-rate, rate])
-            # print(self.taking_food[i])
+            
             if self.taking_food[i] == 1:
                 self.not_want_to_get_food = 0
 
@@ -53,7 +53,7 @@ class Customer:
     def set_waiting_time(self, waiting_time):
         self.waiting_time = waiting_time
         # update rating
-        if waiting_time > TIME_CAN_WAIT:
+        if waiting_time > TIME_CAN_WAIT:  
             decrease = (self.waiting_time//TIME_CAN_WAIT)*0.5
             print(f"Customer {self.id} waited for {self.waiting_time:7f} and decreased the rating by {decrease}, ", end='')    
             self.rating = self.rating - decrease
@@ -120,38 +120,46 @@ class Restaurant:
         self.server_Seat_eat = simpy.Resource(env, self.NUMBER_OF_SEATS)
         self.event_full = simpy.Event(env)
         
+        #Output, for debugging or testing
         self.num_use_ticket = 0
         self.num_use_mainCourses = 0
         self.num_use_appetizer = 0
         self.num_use_drinks = 0
         self.num_use_desserts = 0
-        self.num_rated = 0
+        self.num_rated = 0 #number of times use a service
+
         self.sum_serve_time_ticket  = 0
         self.sum_serve_time_mainCourses = 0
         self.sum_serve_time_appetizer = 0
         self.sum_serve_time_drinks = 0
-        self.sum_serve_time_desserts = 0 
+        self.sum_serve_time_desserts = 0 #for calculating average value
+        self.sum_rated = 0
+        self.sum_rated_no_neg = 0 #rating (< 0) = 0
+
         self.num_ticket_wait_long = 0
         self.num_drinks_wait_long = 0
         self.num_appetizer_wait_long = 0
         self.num_mainCourses_wait_long = 0
         self.num_desserts_wait_long = 0
-        self.sum_rated = 0
-        self.sum_rated_no_neg = 0
+
+        
 
     def serve_ticket(self, env, consumer, arrival_time):
+        
         consumer.arrival_time = arrival_time
-        if self.ticket_queue_size >= MAX_QUEUE_SIZE:
+
+        if self.ticket_queue_size >= MAX_QUEUE_SIZE: #
                 self.num_Cus_leave_ticketFull += 1
                 print(f"Ticket queue is full, Customer {consumer.id} left")
                 return
         else:
             self.ticket_queue_size+=1
         
-        local_event_full = self.event_full
+        local_event_full = self.event_full #assign event_full to a local variable to make sure that it still trigger if somehow event_full get untriggered at the same time it triggered
         #entering_Ticket_queue
+        
         with self.server_ticket.request() as req:
-            yield req | local_event_full
+            yield req | local_event_full #wakeup if any queue is available for serving or the restaurant is full
             if local_event_full.triggered:
                 print(f"The restaurant is full so customer {consumer.id} left the ticket queue #####################################################################")
                 self.num_Cus_leave_resFull += 1
@@ -160,7 +168,9 @@ class Restaurant:
     
             print(f'Customer {consumer.id:3} was getting serve at ticket at {env.now:7.3f}')
             serve_time = random.expovariate(self.TIME_TICKET_SERVICE)
-            yield env.timeout(serve_time) | local_event_full
+            yield env.timeout(serve_time) | local_event_full #wakeup if the currently customer has been served or the restaurent is full, 
+                                                            #this means if there are more than 2 queue, when the 50th customer bought their ticket
+                                                            #all other customers were getting served in others ticket queue have to leave
                 
             if local_event_full.triggered:
                 print(f"The restaurant is full so customer {consumer.id} has left the ticket queue #####################################################################")
@@ -171,15 +181,16 @@ class Restaurant:
 
             self.ticket_queue_size -=1
             self.num_cus_in += 1
-            if (self.num_cus_in >= self.NUMBER_OF_SEATS):
+            self.num_use_ticket += 1
+            self.sum_serve_time_ticket += serve_time
+
+            if (self.num_cus_in >= self.NUMBER_OF_SEATS): #check if the restaurant is full after adding this customer
                 self.event_full.succeed()
 
             if consumer.set_waiting_time(env.now - consumer.arrival_time):
-                self.num_cus_wait_long+=1
-                self.num_ticket_wait_long+=1
+                self.num_cus_wait_long += 1
+                self.num_ticket_wait_long += 1
            
-            self.num_use_ticket += 1
-            self.sum_serve_time_ticket += serve_time
             print(f'Customer {consumer.id:3} left ticket at {env.now:7.3f}, the restaurant has {self.num_cus_in} customers')
             self.choose_food(env,consumer)
      
@@ -293,11 +304,13 @@ class Restaurant:
         self.num_cus_in -= 1
         self.num_rated +=1
         self.sum_rated += consumer.rating
+
         if consumer.rating > 0:
             self.sum_rated_no_neg += consumer.rating
-        if self.event_full.triggered:
-            print(f"So the restaurant currently have {self.num_cus_in} customers")
+
+        if self.event_full.triggered: #if the restaurant was full before, untriggerd this because a customer is leaving
             self.event_full = simpy.Event(env)
+            
         print(f"Customer {consumer.id:3} left the restaurant at {env.now:7.3f} and rated {consumer.rating} stars, the restaurant has {self.num_cus_in} customers")
         
 
