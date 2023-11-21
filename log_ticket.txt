@@ -1,0 +1,354 @@
+Customer   0 was getting serve at ticket at   0.000
+Customer   0 left ticket at   0.003, the restaurant has 1 customers
+Customer   1 was getting serve at ticket at   2.040
+Customer   1 left ticket at   2.043, the restaurant has 2 customers
+Customer   2 was getting serve at ticket at   3.448
+Customer   2 left ticket at   3.568, the restaurant has 2 customers
+Customer   3 was getting serve at ticket at   6.726
+Customer   3 left ticket at   6.768, the restaurant has 2 customers
+Customer   4 was getting serve at ticket at   7.615
+Customer   4 left ticket at   7.832, the restaurant has 3 customers
+Customer   5 was getting serve at ticket at   9.596
+Customer   5 left ticket at   9.798, the restaurant has 4 customers
+Customer   6 was getting serve at ticket at  13.463
+Customer   6 left ticket at  13.567, the restaurant has 4 customers
+Customer   7 was getting serve at ticket at  18.981
+Customer   7 left ticket at  19.007, the restaurant has 3 customers
+Customer   8 was getting serve at ticket at  21.973
+Customer   8 left ticket at  21.997, the restaurant has 4 customers
+Customer   9 was getting serve at ticket at  24.504
+Customer   9 left ticket at  24.549, the restaurant has 5 customers
+Customer  10 was getting serve at ticket at  26.256
+Customer  10 left ticket at  26.304, the restaurant has 6 customers
+Customer  11 was getting serve at ticket at  26.388
+Customer  11 left ticket at  26.604, the restaurant has 7 customers
+Customer  12 was getting serve at ticket at  26.631
+Customer  12 left ticket at  26.938, the restaurant has 8 customers
+Customer  13 was getting serve at ticket at  27.840
+Customer  13 left ticket at  27.916, the restaurant has 9 customers
+Customer  14 was getting serve at ticket at  30.856
+Customer  14 left ticket at  30.862, the restaurant has 10 customers
+Customer  15 was getting serve at ticket at  31.591
+Customer  15 left ticket at  31.684, the restaurant has 10 customers
+Customer  16 was getting serve at ticket at  33.091
+Customer  16 left ticket at  33.164, the restaurant has 11 customers
+Customer  17 was getting serve at ticket at  34.244
+Customer  17 left ticket at  34.480, the restaurant has 11 customers
+Customer  18 was getting serve at ticket at  34.764
+Customer  18 left ticket at  34.792, the restaurant has 12 customers
+Customer  19 was getting serve at ticket at  36.481
+Customer  19 left ticket at  36.487, the restaurant has 9 customers
+Customer  20 was getting serve at ticket at  40.469
+Customer  20 left ticket at  40.531, the restaurant has 9 customers
+Customer  21 was getting serve at ticket at  40.874
+Customer  21 left ticket at  40.892, the restaurant has 10 customers
+Customer  22 was getting serve at ticket at  44.651
+Customer  22 left ticket at  44.706, the restaurant has 10 customers
+Customer  23 was getting serve at ticket at  45.865
+Customer  23 left ticket at  45.935, the restaurant has 10 customers
+Customer  24 was getting serve at ticket at  47.620
+Customer  24 left ticket at  47.841, the restaurant has 10 customers
+Customer  25 was getting serve at ticket at  47.876
+Customer  25 left ticket at  47.884, the restaurant has 11 customers
+Customer  26 was getting serve at ticket at  47.957
+Customer  26 left ticket at  48.068, the restaurant has 12 customers
+Customer  27 was getting serve at ticket at  48.964
+Customer  27 left ticket at  49.377, the restaurant has 13 customers
+Customer  28 was getting serve at ticket at  49.685
+Customer  28 left ticket at  49.702, the restaurant has 14 customers
+Customer  29 was getting serve at ticket at  52.398
+Customer  29 left ticket at  52.403, the restaurant has 13 customers
+Customer  30 was getting serve at ticket at  57.173
+Customer  30 left ticket at  57.308, the restaurant has 11 customers
+Customer  31 was getting serve at ticket at  57.781
+Customer  31 left ticket at  57.797, the restaurant has 12 customers
+Customer  32 was getting serve at ticket at  59.528
+Customer  32 left ticket at  59.610, the restaurant has 13 customers
+Customer  33 was getting serve at ticket at  60.400
+Customer  33 left ticket at  60.441, the restaurant has 14 customers
+Customer  34 was getting serve at ticket at  61.201
+Customer  34 left ticket at  61.223, the restaurant has 14 customers
+Customer  35 was getting serve at ticket at  61.583
+Customer  35 left ticket at  61.685, the restaurant has 14 customers
+Customer  36 was getting serve at ticket at  61.779
+Customer  36 left ticket at  61.819, the restaurant has 15 customers
+Customer  37 was getting serve at ticket at  62.892
+Customer  38 was getting serve at ticket at  62.893
+Customer  38 left ticket at  63.020, the restaurant has 16 customers
+Customer  37 left ticket at  63.152, the restaurant has 17 customers
+Customer  39 was getting serve at ticket at  63.357
+Customer  39 left ticket at  63.376, the restaurant has 18 customers
+Customer  40 was getting serve at ticket at  64.185
+Customer  40 left ticket at  64.249, the restaurant has 17 customers
+Customer  41 was getting serve at ticket at  64.329
+Customer  41 left ticket at  64.366, the restaurant has 18 customers
+Customer  42 was getting serve at ticket at  64.489
+Customer  42 left ticket at  64.497, the restaurant has 19 customers
+Customer  43 was getting serve at ticket at  65.627
+Customer  43 left ticket at  65.824, the restaurant has 20 customers
+Customer  44 was getting serve at ticket at  66.966
+Customer  44 left ticket at  67.028, the restaurant has 21 customers
+Customer  45 was getting serve at ticket at  67.052
+Customer  45 left ticket at  67.351, the restaurant has 22 customers
+Customer  46 was getting serve at ticket at  67.595
+Customer  46 left ticket at  67.693, the restaurant has 23 customers
+Customer  47 was getting serve at ticket at  68.037
+Customer  47 left ticket at  68.159, the restaurant has 24 customers
+Customer  48 was getting serve at ticket at  68.747
+Customer  48 left ticket at  68.749, the restaurant has 24 customers
+Customer  49 was getting serve at ticket at  70.499
+Customer  49 left ticket at  70.553, the restaurant has 25 customers
+Customer  50 was getting serve at ticket at  72.339
+Customer  50 left ticket at  72.734, the restaurant has 25 customers
+Customer  51 was getting serve at ticket at  73.851
+Customer  51 left ticket at  73.871, the restaurant has 23 customers
+Customer  52 was getting serve at ticket at  75.061
+Customer  52 left ticket at  75.241, the restaurant has 24 customers
+Customer  53 was getting serve at ticket at  75.389
+Customer  53 left ticket at  75.494, the restaurant has 24 customers
+Customer  54 was getting serve at ticket at  75.648
+Customer  54 left ticket at  75.947, the restaurant has 25 customers
+Customer  55 was getting serve at ticket at  76.490
+Customer  56 was getting serve at ticket at  76.505
+Customer  55 left ticket at  76.527, the restaurant has 26 customers
+Customer  56 left ticket at  76.823, the restaurant has 27 customers
+Customer  57 was getting serve at ticket at  77.184
+Customer  57 left ticket at  77.185, the restaurant has 28 customers
+Customer  58 was getting serve at ticket at  77.810
+Customer  58 left ticket at  77.867, the restaurant has 27 customers
+Customer  59 was getting serve at ticket at  78.547
+Customer  59 left ticket at  78.586, the restaurant has 27 customers
+Customer  60 was getting serve at ticket at  79.086
+Customer  60 left ticket at  79.154, the restaurant has 27 customers
+Customer  61 was getting serve at ticket at  79.332
+Customer  61 left ticket at  79.359, the restaurant has 28 customers
+Customer  62 was getting serve at ticket at  79.459
+Customer  62 left ticket at  79.526, the restaurant has 29 customers
+Customer  63 was getting serve at ticket at  80.082
+Customer  63 left ticket at  80.203, the restaurant has 28 customers
+Customer  64 was getting serve at ticket at  80.323
+Customer  65 was getting serve at ticket at  80.399
+Customer  64 left ticket at  80.399, the restaurant has 29 customers
+Customer  65 left ticket at  80.420, the restaurant has 30 customers
+Customer  66 was getting serve at ticket at  81.261
+Customer  66 left ticket at  81.362, the restaurant has 31 customers
+Customer  67 was getting serve at ticket at  82.991
+Customer  67 left ticket at  83.056, the restaurant has 30 customers
+Customer  68 was getting serve at ticket at  84.690
+Customer  68 left ticket at  84.699, the restaurant has 29 customers
+Customer  69 was getting serve at ticket at  86.477
+Customer  69 left ticket at  86.512, the restaurant has 28 customers
+Customer  70 was getting serve at ticket at  87.912
+Customer  70 left ticket at  87.939, the restaurant has 26 customers
+Customer  71 was getting serve at ticket at  87.963
+Customer  71 left ticket at  87.997, the restaurant has 27 customers
+Customer  72 was getting serve at ticket at  88.503
+Customer  72 left ticket at  88.521, the restaurant has 26 customers
+Customer  73 was getting serve at ticket at  88.548
+Customer  73 left ticket at  88.802, the restaurant has 27 customers
+Customer  74 was getting serve at ticket at  89.591
+Customer  74 left ticket at  89.788, the restaurant has 28 customers
+Customer  75 was getting serve at ticket at  90.264
+Customer  75 left ticket at  90.408, the restaurant has 29 customers
+Customer  76 was getting serve at ticket at  90.779
+Customer  76 left ticket at  91.127, the restaurant has 29 customers
+Customer  77 was getting serve at ticket at  91.789
+Customer  77 left ticket at  91.827, the restaurant has 30 customers
+Customer  78 was getting serve at ticket at  92.153
+Customer  78 left ticket at  92.294, the restaurant has 31 customers
+Customer  79 was getting serve at ticket at  92.423
+Customer  79 left ticket at  92.457, the restaurant has 31 customers
+Customer  80 was getting serve at ticket at  92.507
+Customer  80 left ticket at  92.517, the restaurant has 32 customers
+Customer  81 was getting serve at ticket at  92.989
+Customer  81 left ticket at  93.010, the restaurant has 32 customers
+Customer  82 was getting serve at ticket at  93.083
+Customer  82 left ticket at  93.136, the restaurant has 31 customers
+Customer  83 was getting serve at ticket at  94.019
+Customer  83 left ticket at  94.163, the restaurant has 28 customers
+Customer  84 was getting serve at ticket at  94.262
+Customer  84 left ticket at  94.289, the restaurant has 29 customers
+Customer  85 was getting serve at ticket at  96.633
+Customer  85 left ticket at  96.722, the restaurant has 26 customers
+Customer  86 was getting serve at ticket at  97.051
+Customer  87 was getting serve at ticket at  97.060
+Customer  86 left ticket at  97.067, the restaurant has 27 customers
+Customer  87 left ticket at  97.411, the restaurant has 28 customers
+Customer  88 was getting serve at ticket at  98.289
+Customer  88 left ticket at  98.356, the restaurant has 28 customers
+Customer  89 was getting serve at ticket at  99.599
+Customer  89 left ticket at  99.610, the restaurant has 27 customers
+Customer  90 was getting serve at ticket at  99.941
+Customer  90 left ticket at 100.017, the restaurant has 28 customers
+Customer  91 was getting serve at ticket at 100.035
+Customer  91 left ticket at 100.150, the restaurant has 29 customers
+Customer  92 was getting serve at ticket at 100.325
+Customer  92 left ticket at 100.342, the restaurant has 30 customers
+Customer  93 was getting serve at ticket at 101.004
+Customer  93 left ticket at 101.070, the restaurant has 29 customers
+Customer  94 was getting serve at ticket at 101.295
+Customer  94 left ticket at 101.432, the restaurant has 30 customers
+Customer  95 was getting serve at ticket at 101.990
+Customer  95 left ticket at 102.087, the restaurant has 30 customers
+Customer  96 was getting serve at ticket at 102.597
+Customer  96 left ticket at 102.632, the restaurant has 31 customers
+Customer  97 was getting serve at ticket at 102.654
+Customer  97 left ticket at 102.699, the restaurant has 32 customers
+Customer  98 was getting serve at ticket at 103.909
+Customer  98 left ticket at 103.924, the restaurant has 32 customers
+Customer  99 was getting serve at ticket at 105.885
+Customer  99 left ticket at 105.898, the restaurant has 30 customers
+Customer 100 was getting serve at ticket at 106.069
+Customer 100 left ticket at 106.081, the restaurant has 31 customers
+Customer 101 was getting serve at ticket at 107.760
+Customer 101 left ticket at 107.775, the restaurant has 26 customers
+Customer 102 was getting serve at ticket at 108.075
+Customer 102 left ticket at 108.194, the restaurant has 27 customers
+Customer 103 was getting serve at ticket at 109.865
+Customer 103 left ticket at 109.961, the restaurant has 26 customers
+Customer 104 was getting serve at ticket at 110.941
+Customer 105 was getting serve at ticket at 111.004
+Customer 104 left ticket at 111.057, the restaurant has 26 customers
+Customer 105 left ticket at 111.385, the restaurant has 25 customers
+Customer 106 was getting serve at ticket at 111.476
+Customer 106 left ticket at 111.481, the restaurant has 26 customers
+Customer 107 was getting serve at ticket at 113.602
+Customer 107 left ticket at 113.680, the restaurant has 24 customers
+Customer 108 was getting serve at ticket at 116.233
+Customer 108 left ticket at 116.246, the restaurant has 20 customers
+Customer 109 was getting serve at ticket at 116.418
+Customer 109 left ticket at 116.513, the restaurant has 20 customers
+Customer 110 was getting serve at ticket at 116.568
+Customer 110 left ticket at 116.901, the restaurant has 21 customers
+Customer 111 was getting serve at ticket at 116.936
+Customer 111 left ticket at 116.943, the restaurant has 22 customers
+Customer 112 was getting serve at ticket at 118.378
+Customer 112 left ticket at 118.525, the restaurant has 19 customers
+Customer 113 was getting serve at ticket at 119.010
+Customer 113 left ticket at 119.141, the restaurant has 20 customers
+Customer 114 was getting serve at ticket at 119.315
+Customer 114 left ticket at 119.325, the restaurant has 21 customers
+Customer 115 was getting serve at ticket at 119.374
+Customer 115 left ticket at 119.462, the restaurant has 22 customers
+Customer 116 was getting serve at ticket at 119.861
+Customer 116 left ticket at 119.948, the restaurant has 23 customers
+Customer 117 was getting serve at ticket at 120.121
+Customer 117 left ticket at 120.292, the restaurant has 24 customers
+Customer 118 was getting serve at ticket at 127.463
+Customer 118 left ticket at 127.464, the restaurant has 22 customers
+Customer 119 was getting serve at ticket at 128.294
+Customer 119 left ticket at 128.331, the restaurant has 22 customers
+Customer 120 was getting serve at ticket at 128.636
+Customer 120 left ticket at 128.703, the restaurant has 23 customers
+Customer 121 was getting serve at ticket at 130.805
+Customer 121 left ticket at 130.839, the restaurant has 21 customers
+Customer 122 was getting serve at ticket at 131.929
+Customer 122 left ticket at 132.220, the restaurant has 21 customers
+Customer 123 was getting serve at ticket at 132.387
+Customer 123 left ticket at 132.508, the restaurant has 21 customers
+Customer 124 was getting serve at ticket at 133.343
+Customer 124 left ticket at 133.467, the restaurant has 20 customers
+Customer 125 was getting serve at ticket at 135.047
+Customer 125 left ticket at 135.164, the restaurant has 19 customers
+Customer 126 was getting serve at ticket at 136.280
+Customer 126 left ticket at 136.431, the restaurant has 20 customers
+Customer 127 was getting serve at ticket at 136.781
+Customer 127 left ticket at 136.952, the restaurant has 20 customers
+Customer 128 was getting serve at ticket at 139.380
+Customer 128 left ticket at 139.400, the restaurant has 19 customers
+Customer 129 was getting serve at ticket at 141.512
+Customer 129 left ticket at 141.519, the restaurant has 18 customers
+Customer 130 was getting serve at ticket at 141.839
+Customer 130 left ticket at 141.873, the restaurant has 19 customers
+Customer 131 was getting serve at ticket at 142.759
+Customer 131 left ticket at 142.765, the restaurant has 18 customers
+Customer 132 was getting serve at ticket at 143.086
+Customer 132 left ticket at 143.190, the restaurant has 19 customers
+Customer 133 was getting serve at ticket at 143.262
+Customer 133 left ticket at 143.411, the restaurant has 20 customers
+Customer 134 was getting serve at ticket at 144.242
+Customer 134 left ticket at 144.285, the restaurant has 21 customers
+Customer 135 was getting serve at ticket at 144.547
+Customer 135 left ticket at 144.715, the restaurant has 22 customers
+Customer 136 was getting serve at ticket at 147.685
+Customer 136 left ticket at 147.987, the restaurant has 16 customers
+Customer 137 was getting serve at ticket at 148.423
+Customer 137 left ticket at 148.604, the restaurant has 17 customers
+Customer 138 was getting serve at ticket at 151.370
+Customer 138 left ticket at 151.488, the restaurant has 15 customers
+Customer 139 was getting serve at ticket at 151.769
+Customer 139 left ticket at 151.828, the restaurant has 16 customers
+Customer 140 was getting serve at ticket at 152.312
+Customer 140 left ticket at 152.396, the restaurant has 16 customers
+Customer 141 was getting serve at ticket at 154.580
+Customer 141 left ticket at 154.683, the restaurant has 15 customers
+Customer 142 was getting serve at ticket at 155.155
+Customer 142 left ticket at 155.213, the restaurant has 14 customers
+Customer 143 was getting serve at ticket at 155.474
+Customer 143 left ticket at 155.525, the restaurant has 14 customers
+Customer 144 was getting serve at ticket at 156.546
+Customer 144 left ticket at 156.724, the restaurant has 12 customers
+Customer 145 was getting serve at ticket at 157.825
+Customer 145 left ticket at 157.955, the restaurant has 13 customers
+Customer 146 was getting serve at ticket at 159.417
+Customer 147 was getting serve at ticket at 159.547
+Customer 146 left ticket at 159.598, the restaurant has 13 customers
+Customer 147 left ticket at 159.623, the restaurant has 14 customers
+Customer 148 was getting serve at ticket at 160.932
+Customer 148 left ticket at 161.070, the restaurant has 15 customers
+Customer 149 was getting serve at ticket at 161.867
+Customer 149 left ticket at 161.970, the restaurant has 15 customers
+Customer 150 was getting serve at ticket at 162.693
+Customer 151 was getting serve at ticket at 162.824
+Customer 150 left ticket at 162.843, the restaurant has 15 customers
+Customer 151 left ticket at 162.859, the restaurant has 16 customers
+Customer 152 was getting serve at ticket at 164.048
+Customer 152 left ticket at 164.094, the restaurant has 17 customers
+Customer 153 was getting serve at ticket at 164.314
+Customer 153 left ticket at 164.322, the restaurant has 18 customers
+Customer 154 was getting serve at ticket at 164.934
+Customer 154 left ticket at 164.993, the restaurant has 19 customers
+Customer 155 was getting serve at ticket at 165.635
+Customer 155 left ticket at 165.692, the restaurant has 19 customers
+Customer 156 was getting serve at ticket at 167.543
+Customer 156 left ticket at 167.848, the restaurant has 20 customers
+Customer 157 was getting serve at ticket at 169.818
+Customer 157 left ticket at 169.864, the restaurant has 17 customers
+Customer 158 was getting serve at ticket at 172.833
+Customer 158 left ticket at 172.879, the restaurant has 14 customers
+Customer 159 was getting serve at ticket at 173.129
+Customer 159 left ticket at 173.178, the restaurant has 15 customers
+Customer 160 was getting serve at ticket at 174.512
+Customer 160 left ticket at 174.741, the restaurant has 14 customers
+Customer 161 was getting serve at ticket at 175.715
+Customer 161 left ticket at 175.732, the restaurant has 15 customers
+Customer 162 was getting serve at ticket at 176.428
+Customer 162 left ticket at 176.474, the restaurant has 16 customers
+Customer 163 was getting serve at ticket at 178.043
+Customer 163 left ticket at 178.051, the restaurant has 15 customers
+Customer 164 was getting serve at ticket at 181.510
+Customer 164 left ticket at 181.713, the restaurant has 15 customers
+Customer 165 was getting serve at ticket at 184.306
+Customer 165 left ticket at 184.379, the restaurant has 15 customers
+Customer 166 was getting serve at ticket at 196.092
+Customer 166 left ticket at 196.182, the restaurant has 9 customers
+Customer 167 was getting serve at ticket at 200.190
+Customer 167 left ticket at 200.292, the restaurant has 6 customers
+Customer 168 was getting serve at ticket at 200.376
+Customer 168 left ticket at 200.430, the restaurant has 7 customers
+Customer 169 was getting serve at ticket at 206.202
+Customer 169 left ticket at 206.241, the restaurant has 4 customers
+Customer 170 was getting serve at ticket at 214.109
+Customer 170 left ticket at 214.138, the restaurant has 2 customers
+Customer 171 was getting serve at ticket at 215.354
+Customer 171 left ticket at 215.375, the restaurant has 3 customers
+Customer 172 was getting serve at ticket at 220.462
+Customer 172 left ticket at 220.487, the restaurant has 3 customers
+Customer 173 was getting serve at ticket at 234.070
+Customer 173 left ticket at 234.200, the restaurant has 2 customers
+Customer 174 was getting serve at ticket at 242.633
+Customer 174 left ticket at 242.693, the restaurant has 2 customers
+Customer 175 was getting serve at ticket at 257.283
+Customer 175 left ticket at 257.563, the restaurant has 3 customers
+Customer 176 was getting serve at ticket at 269.707
+Customer 176 left ticket at 269.780, the restaurant has 3 customers

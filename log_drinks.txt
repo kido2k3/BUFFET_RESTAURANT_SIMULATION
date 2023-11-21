@@ -1,0 +1,459 @@
+Customer   0 entered drinks queue at   0.026
+Customer   0 was getting served at drinks at   0.026
+Customer   0 left drinks at   0.093
+Customer   1 entered drinks queue at   2.192
+Customer   1 was getting served at drinks at   2.192
+Customer   1 left drinks at   2.222
+Customer   3 entered drinks queue at   6.969
+Customer   3 was getting served at drinks at   6.969
+Customer   3 left drinks at   6.973
+Customer   5 entered drinks queue at   9.834
+Customer   5 was getting served at drinks at   9.834
+Customer   5 left drinks at   9.846
+Customer   6 entered drinks queue at  13.618
+Customer   6 was getting served at drinks at  13.618
+Customer   6 left drinks at  13.627
+Customer   7 entered drinks queue at  19.007
+Customer   7 was getting served at drinks at  19.007
+Customer   7 left drinks at  19.089
+Customer   8 entered drinks queue at  22.100
+Customer   8 was getting served at drinks at  22.100
+Customer   8 left drinks at  22.169
+Customer   9 entered drinks queue at  24.597
+Customer   9 was getting served at drinks at  24.597
+Customer   9 left drinks at  24.667
+Customer  10 entered drinks queue at  26.367
+Customer  10 was getting served at drinks at  26.367
+Customer  10 left drinks at  26.424
+Customer  12 entered drinks queue at  26.938
+Customer  12 was getting served at drinks at  26.938
+Customer  11 entered drinks queue at  26.949
+Customer  12 left drinks at  26.974
+Customer  11 was getting served at drinks at  26.974
+Customer  11 left drinks at  27.009
+Customer  14 entered drinks queue at  30.862
+Customer  14 was getting served at drinks at  30.862
+Customer  14 left drinks at  30.866
+Customer  16 entered drinks queue at  33.164
+Customer  16 was getting served at drinks at  33.164
+Customer  16 left drinks at  33.178
+Customer  17 entered drinks queue at  34.486
+Customer  17 was getting served at drinks at  34.486
+Customer  17 left drinks at  34.502
+Customer  19 entered drinks queue at  36.487
+Customer  19 was getting served at drinks at  36.487
+Customer  19 left drinks at  36.490
+Customer  20 entered drinks queue at  40.531
+Customer  20 was getting served at drinks at  40.531
+Customer  20 left drinks at  40.560
+Customer  21 entered drinks queue at  41.102
+Customer  21 was getting served at drinks at  41.102
+Customer  21 left drinks at  41.126
+Customer  22 entered drinks queue at  44.737
+Customer  22 was getting served at drinks at  44.737
+Customer  22 left drinks at  44.780
+Customer  23 entered drinks queue at  45.946
+Customer  23 was getting served at drinks at  45.946
+Customer  23 left drinks at  45.949
+Customer  24 entered drinks queue at  47.899
+Customer  24 was getting served at drinks at  47.899
+Customer  24 left drinks at  47.954
+Customer  26 entered drinks queue at  48.068
+Customer  26 was getting served at drinks at  48.068
+Customer  26 left drinks at  48.069
+Customer  25 entered drinks queue at  48.112
+Customer  25 was getting served at drinks at  48.112
+Customer  25 left drinks at  48.247
+Customer  27 entered drinks queue at  49.377
+Customer  27 was getting served at drinks at  49.377
+Customer  27 left drinks at  49.432
+Customer  28 entered drinks queue at  49.798
+Customer  28 was getting served at drinks at  49.798
+Customer  28 left drinks at  49.833
+Customer  30 entered drinks queue at  57.410
+Customer  30 was getting served at drinks at  57.410
+Customer  30 left drinks at  57.416
+Customer  31 entered drinks queue at  57.991
+Customer  31 was getting served at drinks at  57.991
+Customer  31 left drinks at  58.105
+Customer  32 entered drinks queue at  59.927
+Customer  32 was getting served at drinks at  59.927
+Customer  32 left drinks at  60.027
+Customer  33 entered drinks queue at  60.576
+Customer  33 was getting served at drinks at  60.576
+Customer  33 left drinks at  60.591
+Customer  34 entered drinks queue at  61.259
+Customer  34 was getting served at drinks at  61.259
+Customer  34 left drinks at  61.272
+Customer  35 entered drinks queue at  61.780
+Customer  35 was getting served at drinks at  61.780
+Customer  35 left drinks at  61.786
+Customer  36 entered drinks queue at  61.966
+Customer  36 was getting served at drinks at  61.966
+Customer  36 left drinks at  61.990
+Customer  38 entered drinks queue at  63.051
+Customer  38 was getting served at drinks at  63.051
+Customer  38 left drinks at  63.199
+Customer  37 entered drinks queue at  63.314
+Customer  37 was getting served at drinks at  63.314
+Customer  37 left drinks at  63.324
+Customer  39 entered drinks queue at  63.571
+Customer  39 was getting served at drinks at  63.571
+Customer  39 left drinks at  63.602
+Customer  40 entered drinks queue at  64.264
+Customer  40 was getting served at drinks at  64.264
+Customer  40 left drinks at  64.281
+Customer  41 entered drinks queue at  64.366
+Customer  41 was getting served at drinks at  64.366
+Customer  41 left drinks at  64.374
+Customer  42 entered drinks queue at  64.742
+Customer  42 was getting served at drinks at  64.742
+Customer  42 left drinks at  64.750
+Customer  43 entered drinks queue at  65.824
+Customer  43 was getting served at drinks at  65.824
+Customer  43 left drinks at  65.899
+Customer  45 entered drinks queue at  67.480
+Customer  45 was getting served at drinks at  67.480
+Customer  44 entered drinks queue at  67.514
+Customer  45 left drinks at  67.548
+Customer  44 was getting served at drinks at  67.548
+Customer  44 left drinks at  67.562
+Customer  46 entered drinks queue at  67.797
+Customer  46 was getting served at drinks at  67.797
+Customer  46 left drinks at  67.804
+Customer  47 entered drinks queue at  68.159
+Customer  47 was getting served at drinks at  68.159
+Customer  47 left drinks at  68.186
+Customer  48 entered drinks queue at  68.789
+Customer  48 was getting served at drinks at  68.789
+Customer  48 left drinks at  68.932
+Customer  49 entered drinks queue at  70.646
+Customer  49 was getting served at drinks at  70.646
+Customer  49 left drinks at  70.670
+Customer  50 entered drinks queue at  72.796
+Customer  50 was getting served at drinks at  72.796
+Customer  50 left drinks at  72.800
+Customer  51 entered drinks queue at  73.911
+Customer  51 was getting served at drinks at  73.911
+Customer  51 left drinks at  73.941
+Customer  52 entered drinks queue at  75.242
+Customer  52 was getting served at drinks at  75.242
+Customer  53 entered drinks queue at  75.494
+Customer  52 left drinks at  75.707
+Customer  53 was getting served at drinks at  75.707
+Customer  53 left drinks at  75.755
+Customer  54 entered drinks queue at  76.024
+Customer  54 was getting served at drinks at  76.024
+Customer  54 left drinks at  76.100
+Customer  55 entered drinks queue at  76.764
+Customer  55 was getting served at drinks at  76.764
+Customer  55 left drinks at  76.768
+Customer  56 entered drinks queue at  76.959
+Customer  56 was getting served at drinks at  76.959
+Customer  56 left drinks at  76.981
+Customer  58 entered drinks queue at  77.947
+Customer  58 was getting served at drinks at  77.947
+Customer  58 left drinks at  77.978
+Customer  59 entered drinks queue at  78.704
+Customer  59 was getting served at drinks at  78.704
+Customer  59 left drinks at  78.721
+Customer  60 entered drinks queue at  79.170
+Customer  60 was getting served at drinks at  79.170
+Customer  60 left drinks at  79.192
+Customer  61 entered drinks queue at  79.415
+Customer  61 was getting served at drinks at  79.415
+Customer  61 left drinks at  79.474
+Customer  62 entered drinks queue at  79.653
+Customer  62 was getting served at drinks at  79.653
+Customer  62 left drinks at  79.680
+Customer  65 entered drinks queue at  80.527
+Customer  65 was getting served at drinks at  80.527
+Customer  64 entered drinks queue at  80.586
+Customer  65 left drinks at  80.616
+Customer  64 was getting served at drinks at  80.616
+Customer  64 left drinks at  80.655
+Customer  66 entered drinks queue at  81.371
+Customer  66 was getting served at drinks at  81.371
+Customer  66 left drinks at  81.414
+Customer  67 entered drinks queue at  83.056
+Customer  67 was getting served at drinks at  83.056
+Customer  67 left drinks at  83.082
+Customer  68 entered drinks queue at  84.699
+Customer  68 was getting served at drinks at  84.699
+Customer  68 left drinks at  84.705
+Customer  69 entered drinks queue at  86.548
+Customer  69 was getting served at drinks at  86.548
+Customer  69 left drinks at  86.695
+Customer  70 entered drinks queue at  87.939
+Customer  70 was getting served at drinks at  87.939
+Customer  70 left drinks at  87.948
+Customer  71 entered drinks queue at  88.026
+Customer  71 was getting served at drinks at  88.026
+Customer  71 left drinks at  88.155
+Customer  72 entered drinks queue at  88.608
+Customer  72 was getting served at drinks at  88.608
+Customer  72 left drinks at  88.668
+Customer  73 entered drinks queue at  88.942
+Customer  73 was getting served at drinks at  88.942
+Customer  73 left drinks at  88.943
+Customer  74 entered drinks queue at  89.788
+Customer  74 was getting served at drinks at  89.788
+Customer  74 left drinks at  90.176
+Customer  76 entered drinks queue at  91.127
+Customer  76 was getting served at drinks at  91.127
+Customer  76 left drinks at  91.147
+Customer  77 entered drinks queue at  91.971
+Customer  77 was getting served at drinks at  91.971
+Customer  77 left drinks at  92.024
+Customer  78 entered drinks queue at  92.413
+Customer  78 was getting served at drinks at  92.413
+Customer  78 left drinks at  92.429
+Customer  79 entered drinks queue at  92.510
+Customer  79 was getting served at drinks at  92.510
+Customer  80 entered drinks queue at  92.517
+Customer  79 left drinks at  92.541
+Customer  80 was getting served at drinks at  92.541
+Customer  80 left drinks at  92.604
+Customer  81 entered drinks queue at  93.010
+Customer  81 was getting served at drinks at  93.010
+Customer  81 left drinks at  93.110
+Customer  84 entered drinks queue at  94.315
+Customer  84 was getting served at drinks at  94.315
+Customer  84 left drinks at  94.376
+Customer  83 entered drinks queue at  94.390
+Customer  83 was getting served at drinks at  94.390
+Customer  83 left drinks at  94.424
+Customer  85 entered drinks queue at  96.722
+Customer  85 was getting served at drinks at  96.722
+Customer  85 left drinks at  96.825
+Customer  86 entered drinks queue at  97.067
+Customer  86 was getting served at drinks at  97.067
+Customer  86 left drinks at  97.098
+Customer  88 entered drinks queue at  98.359
+Customer  88 was getting served at drinks at  98.359
+Customer  88 left drinks at  98.372
+Customer  89 entered drinks queue at  99.610
+Customer  89 was getting served at drinks at  99.610
+Customer  89 left drinks at  99.639
+Customer  90 entered drinks queue at 100.029
+Customer  90 was getting served at drinks at 100.029
+Customer  90 left drinks at 100.076
+Customer  91 entered drinks queue at 100.150
+Customer  91 was getting served at drinks at 100.150
+Customer  91 left drinks at 100.163
+Customer  92 entered drinks queue at 100.692
+Customer  92 was getting served at drinks at 100.692
+Customer  92 left drinks at 100.785
+Customer  93 entered drinks queue at 101.175
+Customer  93 was getting served at drinks at 101.175
+Customer  93 left drinks at 101.191
+Customer  94 entered drinks queue at 101.432
+Customer  94 was getting served at drinks at 101.432
+Customer  94 left drinks at 101.552
+Customer  95 entered drinks queue at 102.369
+Customer  95 was getting served at drinks at 102.369
+Customer  95 left drinks at 102.412
+Customer  96 entered drinks queue at 102.648
+Customer  96 was getting served at drinks at 102.648
+Customer  96 left drinks at 102.725
+Customer  97 entered drinks queue at 102.847
+Customer  97 was getting served at drinks at 102.847
+Customer  97 left drinks at 103.018
+Customer  98 entered drinks queue at 104.433
+Customer  98 was getting served at drinks at 104.433
+Customer  98 left drinks at 104.438
+Customer  99 entered drinks queue at 106.132
+Customer  99 was getting served at drinks at 106.132
+Customer  99 left drinks at 106.255
+Customer 100 entered drinks queue at 106.303
+Customer 100 was getting served at drinks at 106.303
+Customer 100 left drinks at 106.353
+Customer 101 entered drinks queue at 107.775
+Customer 101 was getting served at drinks at 107.775
+Customer 101 left drinks at 107.793
+Customer 105 entered drinks queue at 111.385
+Customer 105 was getting served at drinks at 111.385
+Customer 105 left drinks at 111.440
+Customer 106 entered drinks queue at 111.505
+Customer 106 was getting served at drinks at 111.505
+Customer 106 left drinks at 111.582
+Customer 107 entered drinks queue at 113.688
+Customer 107 was getting served at drinks at 113.688
+Customer 107 left drinks at 113.695
+Customer 108 entered drinks queue at 116.414
+Customer 108 was getting served at drinks at 116.414
+Customer 108 left drinks at 116.444
+Customer 109 entered drinks queue at 116.575
+Customer 109 was getting served at drinks at 116.575
+Customer 109 left drinks at 116.903
+Customer 111 entered drinks queue at 116.943
+Customer 111 was getting served at drinks at 116.943
+Customer 110 entered drinks queue at 116.947
+Customer 111 left drinks at 116.963
+Customer 110 was getting served at drinks at 116.963
+Customer 110 left drinks at 117.007
+Customer 112 entered drinks queue at 118.732
+Customer 112 was getting served at drinks at 118.732
+Customer 112 left drinks at 118.759
+Customer 113 entered drinks queue at 119.212
+Customer 113 was getting served at drinks at 119.212
+Customer 113 left drinks at 119.270
+Customer 115 entered drinks queue at 119.531
+Customer 115 was getting served at drinks at 119.531
+Customer 115 left drinks at 119.557
+Customer 114 entered drinks queue at 119.703
+Customer 114 was getting served at drinks at 119.703
+Customer 114 left drinks at 119.876
+Customer 116 entered drinks queue at 119.948
+Customer 116 was getting served at drinks at 119.948
+Customer 116 left drinks at 119.969
+Customer 117 entered drinks queue at 120.362
+Customer 117 was getting served at drinks at 120.362
+Customer 117 left drinks at 120.423
+Customer 118 entered drinks queue at 127.526
+Customer 118 was getting served at drinks at 127.526
+Customer 118 left drinks at 127.530
+Customer 119 entered drinks queue at 128.532
+Customer 119 was getting served at drinks at 128.532
+Customer 119 left drinks at 128.540
+Customer 121 entered drinks queue at 130.918
+Customer 121 was getting served at drinks at 130.918
+Customer 121 left drinks at 131.126
+Customer 122 entered drinks queue at 132.349
+Customer 122 was getting served at drinks at 132.349
+Customer 122 left drinks at 132.384
+Customer 123 entered drinks queue at 132.518
+Customer 123 was getting served at drinks at 132.518
+Customer 123 left drinks at 132.549
+Customer 125 entered drinks queue at 135.172
+Customer 125 was getting served at drinks at 135.172
+Customer 125 left drinks at 135.186
+Customer 126 entered drinks queue at 136.431
+Customer 126 was getting served at drinks at 136.431
+Customer 126 left drinks at 136.467
+Customer 127 entered drinks queue at 136.952
+Customer 127 was getting served at drinks at 136.952
+Customer 127 left drinks at 136.965
+Customer 129 entered drinks queue at 141.721
+Customer 129 was getting served at drinks at 141.721
+Customer 129 left drinks at 141.752
+Customer 130 entered drinks queue at 141.873
+Customer 130 was getting served at drinks at 141.873
+Customer 130 left drinks at 141.921
+Customer 131 entered drinks queue at 142.765
+Customer 131 was getting served at drinks at 142.765
+Customer 131 left drinks at 142.849
+Customer 133 entered drinks queue at 143.411
+Customer 133 was getting served at drinks at 143.411
+Customer 133 left drinks at 143.489
+Customer 134 entered drinks queue at 144.397
+Customer 134 was getting served at drinks at 144.397
+Customer 134 left drinks at 144.415
+Customer 135 entered drinks queue at 144.816
+Customer 135 was getting served at drinks at 144.816
+Customer 135 left drinks at 144.868
+Customer 136 entered drinks queue at 148.247
+Customer 136 was getting served at drinks at 148.247
+Customer 136 left drinks at 148.255
+Customer 137 entered drinks queue at 148.746
+Customer 137 was getting served at drinks at 148.746
+Customer 137 left drinks at 148.792
+Customer 138 entered drinks queue at 151.626
+Customer 138 was getting served at drinks at 151.626
+Customer 138 left drinks at 151.690
+Customer 139 entered drinks queue at 151.962
+Customer 139 was getting served at drinks at 151.962
+Customer 139 left drinks at 151.981
+Customer 140 entered drinks queue at 152.831
+Customer 140 was getting served at drinks at 152.831
+Customer 140 left drinks at 152.911
+Customer 141 entered drinks queue at 154.750
+Customer 141 was getting served at drinks at 154.750
+Customer 141 left drinks at 154.812
+Customer 142 entered drinks queue at 155.213
+Customer 142 was getting served at drinks at 155.213
+Customer 142 left drinks at 155.298
+Customer 143 entered drinks queue at 155.525
+Customer 143 was getting served at drinks at 155.525
+Customer 143 left drinks at 155.548
+Customer 144 entered drinks queue at 156.777
+Customer 144 was getting served at drinks at 156.777
+Customer 144 left drinks at 156.895
+Customer 145 entered drinks queue at 157.983
+Customer 145 was getting served at drinks at 157.983
+Customer 145 left drinks at 157.985
+Customer 147 entered drinks queue at 159.720
+Customer 147 was getting served at drinks at 159.720
+Customer 147 left drinks at 159.724
+Customer 146 entered drinks queue at 159.798
+Customer 146 was getting served at drinks at 159.798
+Customer 146 left drinks at 159.823
+Customer 148 entered drinks queue at 161.218
+Customer 148 was getting served at drinks at 161.218
+Customer 148 left drinks at 161.292
+Customer 150 entered drinks queue at 162.843
+Customer 150 was getting served at drinks at 162.843
+Customer 150 left drinks at 162.921
+Customer 152 entered drinks queue at 164.234
+Customer 152 was getting served at drinks at 164.234
+Customer 152 left drinks at 164.269
+Customer 153 entered drinks queue at 164.772
+Customer 153 was getting served at drinks at 164.772
+Customer 153 left drinks at 164.812
+Customer 155 entered drinks queue at 166.018
+Customer 155 was getting served at drinks at 166.018
+Customer 155 left drinks at 166.022
+Customer 157 entered drinks queue at 170.113
+Customer 157 was getting served at drinks at 170.113
+Customer 157 left drinks at 170.159
+Customer 158 entered drinks queue at 172.966
+Customer 158 was getting served at drinks at 172.966
+Customer 158 left drinks at 173.128
+Customer 159 entered drinks queue at 173.178
+Customer 159 was getting served at drinks at 173.178
+Customer 159 left drinks at 173.194
+Customer 160 entered drinks queue at 175.592
+Customer 160 was getting served at drinks at 175.592
+Customer 160 left drinks at 175.632
+Customer 161 entered drinks queue at 175.859
+Customer 161 was getting served at drinks at 175.859
+Customer 161 left drinks at 175.937
+Customer 162 entered drinks queue at 176.537
+Customer 162 was getting served at drinks at 176.537
+Customer 162 left drinks at 176.541
+Customer 163 entered drinks queue at 178.190
+Customer 163 was getting served at drinks at 178.190
+Customer 163 left drinks at 178.263
+Customer 165 entered drinks queue at 184.561
+Customer 165 was getting served at drinks at 184.561
+Customer 165 left drinks at 184.608
+Customer 167 entered drinks queue at 200.451
+Customer 167 was getting served at drinks at 200.451
+Customer 167 left drinks at 200.469
+Customer 168 entered drinks queue at 200.485
+Customer 168 was getting served at drinks at 200.485
+Customer 168 left drinks at 200.493
+Customer 169 entered drinks queue at 206.549
+Customer 169 was getting served at drinks at 206.549
+Customer 169 left drinks at 206.621
+Customer 170 entered drinks queue at 214.138
+Customer 170 was getting served at drinks at 214.138
+Customer 170 left drinks at 214.140
+Customer 171 entered drinks queue at 215.531
+Customer 171 was getting served at drinks at 215.531
+Customer 171 left drinks at 215.676
+Customer 172 entered drinks queue at 220.564
+Customer 172 was getting served at drinks at 220.564
+Customer 172 left drinks at 220.658
+Customer 173 entered drinks queue at 234.234
+Customer 173 was getting served at drinks at 234.234
+Customer 173 left drinks at 234.257
+Customer 174 entered drinks queue at 242.934
+Customer 174 was getting served at drinks at 242.934
+Customer 174 left drinks at 242.940
+Customer 175 entered drinks queue at 257.563
+Customer 175 was getting served at drinks at 257.563
+Customer 175 left drinks at 257.574
+Customer 176 entered drinks queue at 269.870
+Customer 176 was getting served at drinks at 269.870
+Customer 176 left drinks at 269.915

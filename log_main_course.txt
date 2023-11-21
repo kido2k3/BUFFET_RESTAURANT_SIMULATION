@@ -1,0 +1,519 @@
+Customer   0 entered mainCourse queue at   0.003
+Customer   0 was getting served at mainCourse at   0.003
+Customer   0 left mainCourse at   0.026
+Customer   1 entered mainCourse queue at   2.222
+Customer   1 was getting served at mainCourse at   2.222
+Customer   1 left mainCourse at   2.360
+Customer   2 entered mainCourse queue at   3.568
+Customer   2 was getting served at mainCourse at   3.568
+Customer   2 left mainCourse at   3.595
+Customer   3 entered mainCourse queue at   6.768
+Customer   3 was getting served at mainCourse at   6.768
+Customer   3 left mainCourse at   6.905
+Customer   4 entered mainCourse queue at   7.832
+Customer   4 was getting served at mainCourse at   7.832
+Customer   4 left mainCourse at   7.904
+Customer   5 entered mainCourse queue at   9.820
+Customer   5 was getting served at mainCourse at   9.820
+Customer   5 left mainCourse at   9.834
+Customer   6 entered mainCourse queue at  13.653
+Customer   6 was getting served at mainCourse at  13.653
+Customer   6 left mainCourse at  13.750
+Customer   7 entered mainCourse queue at  19.115
+Customer   7 was getting served at mainCourse at  19.115
+Customer   7 left mainCourse at  19.319
+Customer   8 entered mainCourse queue at  22.039
+Customer   8 was getting served at mainCourse at  22.039
+Customer   8 left mainCourse at  22.090
+Customer   9 entered mainCourse queue at  24.667
+Customer   9 was getting served at mainCourse at  24.667
+Customer   9 left mainCourse at  24.681
+Customer  10 entered mainCourse queue at  26.304
+Customer  10 was getting served at mainCourse at  26.304
+Customer  10 left mainCourse at  26.367
+Customer  11 entered mainCourse queue at  26.604
+Customer  11 was getting served at mainCourse at  26.604
+Customer  11 left mainCourse at  26.651
+Customer  12 entered mainCourse queue at  27.127
+Customer  12 was getting served at mainCourse at  27.127
+Customer  12 left mainCourse at  27.247
+Customer  13 entered mainCourse queue at  27.978
+Customer  13 was getting served at mainCourse at  27.978
+Customer  13 left mainCourse at  28.154
+Customer  14 entered mainCourse queue at  30.866
+Customer  14 was getting served at mainCourse at  30.866
+Customer  14 left mainCourse at  31.008
+Customer  15 entered mainCourse queue at  31.861
+Customer  15 was getting served at mainCourse at  31.861
+Customer  15 left mainCourse at  31.965
+Customer  16 entered mainCourse queue at  33.206
+Customer  16 was getting served at mainCourse at  33.206
+Customer  16 left mainCourse at  33.280
+Customer  17 entered mainCourse queue at  34.480
+Customer  17 was getting served at mainCourse at  34.480
+Customer  17 left mainCourse at  34.486
+Customer  18 entered mainCourse queue at  34.792
+Customer  18 was getting served at mainCourse at  34.792
+Customer  18 left mainCourse at  34.929
+Customer  19 entered mainCourse queue at  36.543
+Customer  19 was getting served at mainCourse at  36.543
+Customer  19 left mainCourse at  36.607
+Customer  20 entered mainCourse queue at  40.564
+Customer  20 was getting served at mainCourse at  40.564
+Customer  20 left mainCourse at  40.853
+Customer  21 entered mainCourse queue at  41.126
+Customer  21 was getting served at mainCourse at  41.126
+Customer  21 left mainCourse at  41.152
+Customer  22 entered mainCourse queue at  44.780
+Customer  22 was getting served at mainCourse at  44.780
+Customer  22 left mainCourse at  44.895
+Customer  23 entered mainCourse queue at  45.949
+Customer  23 was getting served at mainCourse at  45.949
+Customer  23 left mainCourse at  46.043
+Customer  25 entered mainCourse queue at  47.884
+Customer  25 was getting served at mainCourse at  47.884
+Customer  24 entered mainCourse queue at  47.977
+Customer  24 was getting served at mainCourse at  47.977
+Customer  24 left mainCourse at  48.028
+Customer  26 entered mainCourse queue at  48.074
+Customer  26 was getting served at mainCourse at  48.074
+Customer  25 left mainCourse at  48.112
+Customer  26 left mainCourse at  48.132
+Customer  27 entered mainCourse queue at  49.648
+Customer  27 was getting served at mainCourse at  49.648
+Customer  27 left mainCourse at  49.674
+Customer  28 entered mainCourse queue at  49.702
+Customer  28 was getting served at mainCourse at  49.702
+Customer  28 left mainCourse at  49.779
+Customer  29 entered mainCourse queue at  52.449
+Customer  29 was getting served at mainCourse at  52.449
+Customer  29 left mainCourse at  52.453
+Customer  30 entered mainCourse queue at  57.416
+Customer  30 was getting served at mainCourse at  57.416
+Customer  30 left mainCourse at  57.482
+Customer  31 entered mainCourse queue at  57.799
+Customer  31 was getting served at mainCourse at  57.799
+Customer  31 left mainCourse at  57.991
+Customer  32 entered mainCourse queue at  59.913
+Customer  32 was getting served at mainCourse at  59.913
+Customer  32 left mainCourse at  59.927
+Customer  33 entered mainCourse queue at  60.441
+Customer  33 was getting served at mainCourse at  60.441
+Customer  33 left mainCourse at  60.576
+Customer  34 entered mainCourse queue at  61.305
+Customer  34 was getting served at mainCourse at  61.305
+Customer  34 left mainCourse at  61.472
+Customer  35 entered mainCourse queue at  61.786
+Customer  35 was getting served at mainCourse at  61.786
+Customer  35 left mainCourse at  61.802
+Customer  36 entered mainCourse queue at  61.819
+Customer  36 was getting served at mainCourse at  61.819
+Customer  36 left mainCourse at  61.928
+Customer  37 entered mainCourse queue at  63.152
+Customer  37 was getting served at mainCourse at  63.152
+Customer  38 entered mainCourse queue at  63.199
+Customer  38 was getting served at mainCourse at  63.199
+Customer  37 left mainCourse at  63.234
+Customer  38 left mainCourse at  63.305
+Customer  39 entered mainCourse queue at  63.376
+Customer  39 was getting served at mainCourse at  63.376
+Customer  39 left mainCourse at  63.420
+Customer  40 entered mainCourse queue at  64.281
+Customer  40 was getting served at mainCourse at  64.281
+Customer  40 left mainCourse at  64.289
+Customer  41 entered mainCourse queue at  64.374
+Customer  41 was getting served at mainCourse at  64.374
+Customer  41 left mainCourse at  64.397
+Customer  42 entered mainCourse queue at  64.678
+Customer  42 was getting served at mainCourse at  64.678
+Customer  42 left mainCourse at  64.696
+Customer  43 entered mainCourse queue at  65.916
+Customer  43 was getting served at mainCourse at  65.916
+Customer  43 left mainCourse at  66.124
+Customer  44 entered mainCourse queue at  67.028
+Customer  44 was getting served at mainCourse at  67.028
+Customer  44 left mainCourse at  67.396
+Customer  45 entered mainCourse queue at  67.430
+Customer  45 was getting served at mainCourse at  67.430
+Customer  45 left mainCourse at  67.480
+Customer  46 entered mainCourse queue at  67.693
+Customer  46 was getting served at mainCourse at  67.693
+Customer  46 left mainCourse at  67.741
+Customer  47 entered mainCourse queue at  68.186
+Customer  47 was getting served at mainCourse at  68.186
+Customer  47 left mainCourse at  68.251
+Customer  48 entered mainCourse queue at  68.932
+Customer  48 was getting served at mainCourse at  68.932
+Customer  48 left mainCourse at  69.049
+Customer  49 entered mainCourse queue at  70.598
+Customer  49 was getting served at mainCourse at  70.598
+Customer  49 left mainCourse at  70.646
+Customer  51 entered mainCourse queue at  73.871
+Customer  51 was getting served at mainCourse at  73.871
+Customer  51 left mainCourse at  73.911
+Customer  53 entered mainCourse queue at  75.764
+Customer  53 was getting served at mainCourse at  75.764
+Customer  53 left mainCourse at  75.834
+Customer  54 entered mainCourse queue at  76.100
+Customer  54 was getting served at mainCourse at  76.100
+Customer  54 left mainCourse at  76.378
+Customer  55 entered mainCourse queue at  76.775
+Customer  55 was getting served at mainCourse at  76.775
+Customer  55 left mainCourse at  76.933
+Customer  56 entered mainCourse queue at  76.981
+Customer  56 was getting served at mainCourse at  76.981
+Customer  56 left mainCourse at  77.071
+Customer  57 entered mainCourse queue at  77.185
+Customer  57 was getting served at mainCourse at  77.185
+Customer  57 left mainCourse at  77.329
+Customer  58 entered mainCourse queue at  77.867
+Customer  58 was getting served at mainCourse at  77.867
+Customer  58 left mainCourse at  77.947
+Customer  59 entered mainCourse queue at  78.744
+Customer  59 was getting served at mainCourse at  78.744
+Customer  59 left mainCourse at  78.814
+Customer  60 entered mainCourse queue at  79.154
+Customer  60 was getting served at mainCourse at  79.154
+Customer  60 left mainCourse at  79.170
+Customer  61 entered mainCourse queue at  79.480
+Customer  61 was getting served at mainCourse at  79.480
+Customer  61 left mainCourse at  79.523
+Customer  62 entered mainCourse queue at  79.526
+Customer  62 was getting served at mainCourse at  79.526
+Customer  62 left mainCourse at  79.599
+Customer  63 entered mainCourse queue at  80.203
+Customer  63 was getting served at mainCourse at  80.203
+Customer  63 left mainCourse at  80.234
+Customer  65 entered mainCourse queue at  80.420
+Customer  65 was getting served at mainCourse at  80.420
+Customer  65 left mainCourse at  80.527
+Customer  64 entered mainCourse queue at  80.565
+Customer  64 was getting served at mainCourse at  80.565
+Customer  64 left mainCourse at  80.586
+Customer  66 entered mainCourse queue at  81.414
+Customer  66 was getting served at mainCourse at  81.414
+Customer  66 left mainCourse at  81.468
+Customer  67 entered mainCourse queue at  83.082
+Customer  67 was getting served at mainCourse at  83.082
+Customer  67 left mainCourse at  83.154
+Customer  68 entered mainCourse queue at  84.783
+Customer  68 was getting served at mainCourse at  84.783
+Customer  68 left mainCourse at  84.908
+Customer  69 entered mainCourse queue at  86.543
+Customer  69 was getting served at mainCourse at  86.543
+Customer  69 left mainCourse at  86.548
+Customer  70 entered mainCourse queue at  87.948
+Customer  70 was getting served at mainCourse at  87.948
+Customer  70 left mainCourse at  87.998
+Customer  71 entered mainCourse queue at  88.020
+Customer  71 was getting served at mainCourse at  88.020
+Customer  71 left mainCourse at  88.026
+Customer  72 entered mainCourse queue at  88.521
+Customer  72 was getting served at mainCourse at  88.521
+Customer  72 left mainCourse at  88.597
+Customer  73 entered mainCourse queue at  88.850
+Customer  73 was getting served at mainCourse at  88.850
+Customer  73 left mainCourse at  88.853
+Customer  74 entered mainCourse queue at  90.362
+Customer  74 was getting served at mainCourse at  90.362
+Customer  74 left mainCourse at  90.568
+Customer  75 entered mainCourse queue at  90.830
+Customer  75 was getting served at mainCourse at  90.830
+Customer  75 left mainCourse at  90.862
+Customer  76 entered mainCourse queue at  91.175
+Customer  76 was getting served at mainCourse at  91.175
+Customer  76 left mainCourse at  91.315
+Customer  77 entered mainCourse queue at  91.827
+Customer  77 was getting served at mainCourse at  91.827
+Customer  77 left mainCourse at  91.837
+Customer  78 entered mainCourse queue at  92.429
+Customer  78 was getting served at mainCourse at  92.429
+Customer  78 left mainCourse at  92.440
+Customer  79 entered mainCourse queue at  92.541
+Customer  79 was getting served at mainCourse at  92.541
+Customer  79 left mainCourse at  92.598
+Customer  80 entered mainCourse queue at  92.604
+Customer  80 was getting served at mainCourse at  92.604
+Customer  80 left mainCourse at  92.649
+Customer  81 entered mainCourse queue at  93.110
+Customer  81 was getting served at mainCourse at  93.110
+Customer  82 entered mainCourse queue at  93.136
+Customer  82 was getting served at mainCourse at  93.136
+Customer  82 left mainCourse at  93.244
+Customer  81 left mainCourse at  93.253
+Customer  84 entered mainCourse queue at  94.289
+Customer  84 was getting served at mainCourse at  94.289
+Customer  84 left mainCourse at  94.311
+Customer  83 entered mainCourse queue at  94.350
+Customer  83 was getting served at mainCourse at  94.350
+Customer  83 left mainCourse at  94.390
+Customer  85 entered mainCourse queue at  96.825
+Customer  85 was getting served at mainCourse at  96.825
+Customer  85 left mainCourse at  96.834
+Customer  86 entered mainCourse queue at  97.098
+Customer  86 was getting served at mainCourse at  97.098
+Customer  86 left mainCourse at  97.133
+Customer  88 entered mainCourse queue at  98.372
+Customer  88 was getting served at mainCourse at  98.372
+Customer  88 left mainCourse at  98.869
+Customer  89 entered mainCourse queue at  99.672
+Customer  89 was getting served at mainCourse at  99.672
+Customer  89 left mainCourse at  99.701
+Customer  90 entered mainCourse queue at 100.279
+Customer  90 was getting served at mainCourse at 100.279
+Customer  90 left mainCourse at 100.304
+Customer  92 entered mainCourse queue at 100.584
+Customer  92 was getting served at mainCourse at 100.584
+Customer  92 left mainCourse at 100.613
+Customer  93 entered mainCourse queue at 101.102
+Customer  93 was getting served at mainCourse at 101.102
+Customer  93 left mainCourse at 101.173
+Customer  94 entered mainCourse queue at 101.610
+Customer  94 was getting served at mainCourse at 101.610
+Customer  94 left mainCourse at 101.734
+Customer  95 entered mainCourse queue at 102.239
+Customer  95 was getting served at mainCourse at 102.239
+Customer  95 left mainCourse at 102.369
+Customer  97 entered mainCourse queue at 102.699
+Customer  97 was getting served at mainCourse at 102.699
+Customer  96 entered mainCourse queue at 102.725
+Customer  96 was getting served at mainCourse at 102.725
+Customer  97 left mainCourse at 102.847
+Customer  96 left mainCourse at 102.930
+Customer  98 entered mainCourse queue at 104.148
+Customer  98 was getting served at mainCourse at 104.148
+Customer  98 left mainCourse at 104.433
+Customer  99 entered mainCourse queue at 105.898
+Customer  99 was getting served at mainCourse at 105.898
+Customer  99 left mainCourse at 105.991
+Customer 100 entered mainCourse queue at 106.353
+Customer 100 was getting served at mainCourse at 106.353
+Customer 100 left mainCourse at 106.553
+Customer 101 entered mainCourse queue at 107.793
+Customer 101 was getting served at mainCourse at 107.793
+Customer 101 left mainCourse at 107.804
+Customer 102 entered mainCourse queue at 108.268
+Customer 102 was getting served at mainCourse at 108.268
+Customer 102 left mainCourse at 108.449
+Customer 103 entered mainCourse queue at 109.961
+Customer 103 was getting served at mainCourse at 109.961
+Customer 103 left mainCourse at 109.964
+Customer 104 entered mainCourse queue at 111.057
+Customer 104 was getting served at mainCourse at 111.057
+Customer 104 left mainCourse at 111.062
+Customer 106 entered mainCourse queue at 111.481
+Customer 106 was getting served at mainCourse at 111.481
+Customer 106 left mainCourse at 111.505
+Customer 105 entered mainCourse queue at 111.529
+Customer 105 was getting served at mainCourse at 111.529
+Customer 105 left mainCourse at 111.603
+Customer 107 entered mainCourse queue at 113.825
+Customer 107 was getting served at mainCourse at 113.825
+Customer 107 left mainCourse at 113.899
+Customer 108 entered mainCourse queue at 116.309
+Customer 108 was getting served at mainCourse at 116.309
+Customer 108 left mainCourse at 116.314
+Customer 109 entered mainCourse queue at 116.903
+Customer 109 was getting served at mainCourse at 116.903
+Customer 109 left mainCourse at 116.959
+Customer 110 entered mainCourse queue at 117.007
+Customer 110 was getting served at mainCourse at 117.007
+Customer 111 entered mainCourse queue at 117.044
+Customer 111 was getting served at mainCourse at 117.044
+Customer 110 left mainCourse at 117.047
+Customer 111 left mainCourse at 117.095
+Customer 112 entered mainCourse queue at 118.525
+Customer 112 was getting served at mainCourse at 118.525
+Customer 112 left mainCourse at 118.692
+Customer 113 entered mainCourse queue at 119.141
+Customer 113 was getting served at mainCourse at 119.141
+Customer 113 left mainCourse at 119.187
+Customer 114 entered mainCourse queue at 119.325
+Customer 114 was getting served at mainCourse at 119.325
+Customer 114 left mainCourse at 119.464
+Customer 115 entered mainCourse queue at 119.557
+Customer 115 was getting served at mainCourse at 119.557
+Customer 115 left mainCourse at 119.726
+Customer 116 entered mainCourse queue at 120.007
+Customer 116 was getting served at mainCourse at 120.007
+Customer 116 left mainCourse at 120.079
+Customer 117 entered mainCourse queue at 120.360
+Customer 117 was getting served at mainCourse at 120.360
+Customer 117 left mainCourse at 120.362
+Customer 118 entered mainCourse queue at 127.520
+Customer 118 was getting served at mainCourse at 127.520
+Customer 118 left mainCourse at 127.526
+Customer 119 entered mainCourse queue at 128.331
+Customer 119 was getting served at mainCourse at 128.331
+Customer 119 left mainCourse at 128.456
+Customer 120 entered mainCourse queue at 128.703
+Customer 120 was getting served at mainCourse at 128.703
+Customer 120 left mainCourse at 128.747
+Customer 121 entered mainCourse queue at 130.914
+Customer 121 was getting served at mainCourse at 130.914
+Customer 121 left mainCourse at 130.918
+Customer 122 entered mainCourse queue at 132.316
+Customer 122 was getting served at mainCourse at 132.316
+Customer 122 left mainCourse at 132.349
+Customer 123 entered mainCourse queue at 132.508
+Customer 123 was getting served at mainCourse at 132.508
+Customer 123 left mainCourse at 132.515
+Customer 124 entered mainCourse queue at 133.467
+Customer 124 was getting served at mainCourse at 133.467
+Customer 124 left mainCourse at 133.496
+Customer 125 entered mainCourse queue at 135.164
+Customer 125 was getting served at mainCourse at 135.164
+Customer 125 left mainCourse at 135.172
+Customer 126 entered mainCourse queue at 136.517
+Customer 126 was getting served at mainCourse at 136.517
+Customer 126 left mainCourse at 136.714
+Customer 127 entered mainCourse queue at 136.965
+Customer 127 was getting served at mainCourse at 136.965
+Customer 127 left mainCourse at 136.990
+Customer 128 entered mainCourse queue at 139.457
+Customer 128 was getting served at mainCourse at 139.457
+Customer 128 left mainCourse at 139.552
+Customer 129 entered mainCourse queue at 141.662
+Customer 129 was getting served at mainCourse at 141.662
+Customer 129 left mainCourse at 141.721
+Customer 130 entered mainCourse queue at 142.001
+Customer 130 was getting served at mainCourse at 142.001
+Customer 130 left mainCourse at 142.033
+Customer 131 entered mainCourse queue at 142.849
+Customer 131 was getting served at mainCourse at 142.849
+Customer 131 left mainCourse at 143.185
+Customer 132 entered mainCourse queue at 143.190
+Customer 132 was getting served at mainCourse at 143.190
+Customer 133 entered mainCourse queue at 143.523
+Customer 133 was getting served at mainCourse at 143.523
+Customer 133 left mainCourse at 143.531
+Customer 132 left mainCourse at 143.582
+Customer 134 entered mainCourse queue at 144.385
+Customer 134 was getting served at mainCourse at 144.385
+Customer 134 left mainCourse at 144.397
+Customer 135 entered mainCourse queue at 144.868
+Customer 135 was getting served at mainCourse at 144.868
+Customer 135 left mainCourse at 144.927
+Customer 136 entered mainCourse queue at 147.987
+Customer 136 was getting served at mainCourse at 147.987
+Customer 136 left mainCourse at 148.232
+Customer 137 entered mainCourse queue at 148.604
+Customer 137 was getting served at mainCourse at 148.604
+Customer 137 left mainCourse at 148.607
+Customer 138 entered mainCourse queue at 151.690
+Customer 138 was getting served at mainCourse at 151.690
+Customer 138 left mainCourse at 151.734
+Customer 139 entered mainCourse queue at 151.828
+Customer 139 was getting served at mainCourse at 151.828
+Customer 139 left mainCourse at 151.944
+Customer 140 entered mainCourse queue at 152.548
+Customer 140 was getting served at mainCourse at 152.548
+Customer 140 left mainCourse at 152.831
+Customer 141 entered mainCourse queue at 154.683
+Customer 141 was getting served at mainCourse at 154.683
+Customer 141 left mainCourse at 154.750
+Customer 142 entered mainCourse queue at 155.520
+Customer 142 was getting served at mainCourse at 155.520
+Customer 142 left mainCourse at 155.542
+Customer 143 entered mainCourse queue at 155.801
+Customer 143 was getting served at mainCourse at 155.801
+Customer 143 left mainCourse at 155.804
+Customer 144 entered mainCourse queue at 156.895
+Customer 144 was getting served at mainCourse at 156.895
+Customer 144 left mainCourse at 156.920
+Customer 145 entered mainCourse queue at 157.985
+Customer 145 was getting served at mainCourse at 157.985
+Customer 145 left mainCourse at 158.070
+Customer 147 entered mainCourse queue at 159.623
+Customer 147 was getting served at mainCourse at 159.623
+Customer 147 left mainCourse at 159.670
+Customer 146 entered mainCourse queue at 159.823
+Customer 146 was getting served at mainCourse at 159.823
+Customer 146 left mainCourse at 159.827
+Customer 148 entered mainCourse queue at 161.070
+Customer 148 was getting served at mainCourse at 161.070
+Customer 148 left mainCourse at 161.199
+Customer 149 entered mainCourse queue at 161.970
+Customer 149 was getting served at mainCourse at 161.970
+Customer 149 left mainCourse at 162.299
+Customer 151 entered mainCourse queue at 162.944
+Customer 151 was getting served at mainCourse at 162.944
+Customer 151 left mainCourse at 162.947
+Customer 150 entered mainCourse queue at 163.031
+Customer 150 was getting served at mainCourse at 163.031
+Customer 150 left mainCourse at 163.198
+Customer 152 entered mainCourse queue at 164.269
+Customer 152 was getting served at mainCourse at 164.269
+Customer 152 left mainCourse at 164.307
+Customer 153 entered mainCourse queue at 164.329
+Customer 153 was getting served at mainCourse at 164.329
+Customer 153 left mainCourse at 164.772
+Customer 154 entered mainCourse queue at 165.039
+Customer 154 was getting served at mainCourse at 165.039
+Customer 154 left mainCourse at 165.075
+Customer 155 entered mainCourse queue at 165.692
+Customer 155 was getting served at mainCourse at 165.692
+Customer 155 left mainCourse at 166.018
+Customer 156 entered mainCourse queue at 167.974
+Customer 156 was getting served at mainCourse at 167.974
+Customer 156 left mainCourse at 167.977
+Customer 157 entered mainCourse queue at 170.159
+Customer 157 was getting served at mainCourse at 170.159
+Customer 157 left mainCourse at 170.407
+Customer 158 entered mainCourse queue at 172.879
+Customer 158 was getting served at mainCourse at 172.879
+Customer 158 left mainCourse at 172.966
+Customer 159 entered mainCourse queue at 173.194
+Customer 159 was getting served at mainCourse at 173.194
+Customer 159 left mainCourse at 173.295
+Customer 160 entered mainCourse queue at 175.233
+Customer 160 was getting served at mainCourse at 175.233
+Customer 160 left mainCourse at 175.518
+Customer 161 entered mainCourse queue at 175.937
+Customer 161 was getting served at mainCourse at 175.937
+Customer 161 left mainCourse at 176.067
+Customer 162 entered mainCourse queue at 177.192
+Customer 162 was getting served at mainCourse at 177.192
+Customer 162 left mainCourse at 177.254
+Customer 163 entered mainCourse queue at 178.051
+Customer 163 was getting served at mainCourse at 178.051
+Customer 163 left mainCourse at 178.137
+Customer 164 entered mainCourse queue at 181.777
+Customer 164 was getting served at mainCourse at 181.777
+Customer 164 left mainCourse at 182.004
+Customer 165 entered mainCourse queue at 184.379
+Customer 165 was getting served at mainCourse at 184.379
+Customer 165 left mainCourse at 184.535
+Customer 166 entered mainCourse queue at 196.196
+Customer 166 was getting served at mainCourse at 196.196
+Customer 166 left mainCourse at 196.350
+Customer 167 entered mainCourse queue at 200.292
+Customer 167 was getting served at mainCourse at 200.292
+Customer 167 left mainCourse at 200.380
+Customer 168 entered mainCourse queue at 200.430
+Customer 168 was getting served at mainCourse at 200.430
+Customer 168 left mainCourse at 200.485
+Customer 169 entered mainCourse queue at 206.241
+Customer 169 was getting served at mainCourse at 206.241
+Customer 169 left mainCourse at 206.549
+Customer 170 entered mainCourse queue at 214.140
+Customer 170 was getting served at mainCourse at 214.140
+Customer 170 left mainCourse at 214.307
+Customer 171 entered mainCourse queue at 215.474
+Customer 171 was getting served at mainCourse at 215.474
+Customer 171 left mainCourse at 215.531
+Customer 172 entered mainCourse queue at 220.487
+Customer 172 was getting served at mainCourse at 220.487
+Customer 172 left mainCourse at 220.491
+Customer 173 entered mainCourse queue at 234.230
+Customer 173 was getting served at mainCourse at 234.230
+Customer 173 left mainCourse at 234.234
+Customer 174 entered mainCourse queue at 242.693
+Customer 174 was getting served at mainCourse at 242.693
+Customer 174 left mainCourse at 242.839
+Customer 175 entered mainCourse queue at 257.574
+Customer 175 was getting served at mainCourse at 257.574
+Customer 175 left mainCourse at 257.632
+Customer 176 entered mainCourse queue at 269.855
+Customer 176 was getting served at mainCourse at 269.855
+Customer 176 left mainCourse at 269.870

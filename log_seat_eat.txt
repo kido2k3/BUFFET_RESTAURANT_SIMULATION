@@ -1,0 +1,531 @@
+Customer   0 entered a seat to eat at   0.155
+Customer   1 entered a seat to eat at   2.360
+Customer   1 has finished their dinner at   2.491
+Customer   1 left the restaurant at   2.491 and rated 4.5 stars, the restaurant has 1 customers
+Customer   2 entered a seat to eat at   3.814
+Customer   0 has finished their dinner at   5.089
+Customer   0 left the restaurant at   5.089 and rated 5 stars, the restaurant has 1 customers
+Customer   3 entered a seat to eat at   6.973
+Customer   4 entered a seat to eat at   8.030
+Customer   5 entered a seat to eat at   9.846
+Customer   2 has finished their dinner at  13.372
+Customer   2 left the restaurant at  13.372 and rated 4.5 stars, the restaurant has 3 customers
+Customer   6 entered a seat to eat at  13.750
+Customer   3 has finished their dinner at  13.913
+Customer   3 left the restaurant at  13.913 and rated 4.5 stars, the restaurant has 3 customers
+Customer   5 has finished their dinner at  16.058
+Customer   5 left the restaurant at  16.058 and rated 4.5 stars, the restaurant has 2 customers
+Customer   7 entered a seat to eat at  19.319
+Customer   8 entered a seat to eat at  22.169
+Customer   9 entered a seat to eat at  24.812
+Customer  10 entered a seat to eat at  26.546
+Customer  11 entered a seat to eat at  27.009
+Customer  12 entered a seat to eat at  27.247
+Customer  13 entered a seat to eat at  28.154
+Customer  14 entered a seat to eat at  31.261
+Customer  11 has finished their dinner at  31.445
+Customer  11 left the restaurant at  31.445 and rated 3.5 stars, the restaurant has 9 customers
+Customer  15 entered a seat to eat at  32.409
+Customer  16 entered a seat to eat at  33.286
+Customer   8 has finished their dinner at  33.357
+Customer   8 left the restaurant at  33.357 and rated 5 stars, the restaurant has 10 customers
+Customer  17 entered a seat to eat at  34.608
+Customer  10 has finished their dinner at  34.862
+Customer  10 left the restaurant at  34.862 and rated 5 stars, the restaurant has 11 customers
+Customer  14 has finished their dinner at  34.871
+Customer  14 left the restaurant at  34.871 and rated 4.0 stars, the restaurant has 10 customers
+Customer  18 entered a seat to eat at  34.972
+Customer   9 has finished their dinner at  35.781
+Customer   9 left the restaurant at  35.781 and rated 5 stars, the restaurant has 9 customers
+Customer   7 has finished their dinner at  36.067
+Customer   7 left the restaurant at  36.067 and rated 4.5 stars, the restaurant has 8 customers
+Customer  19 entered a seat to eat at  36.607
+Customer  19 has finished their dinner at  39.628
+Customer  19 left the restaurant at  39.628 and rated 5 stars, the restaurant has 8 customers
+Customer  20 entered a seat to eat at  40.853
+Customer  21 entered a seat to eat at  41.152
+Customer  12 has finished their dinner at  42.751
+Customer  12 left the restaurant at  42.751 and rated 3.5 stars, the restaurant has 9 customers
+Customer  22 entered a seat to eat at  44.895
+Customer  18 has finished their dinner at  45.562
+Customer  18 left the restaurant at  45.562 and rated 4.5 stars, the restaurant has 9 customers
+Customer  23 entered a seat to eat at  46.043
+Customer  22 has finished their dinner at  46.072
+Customer  22 left the restaurant at  46.072 and rated 5 stars, the restaurant has 9 customers
+Customer  24 entered a seat to eat at  48.028
+Customer  26 entered a seat to eat at  48.132
+Customer  25 entered a seat to eat at  48.326
+Customer  27 entered a seat to eat at  49.674
+Customer  28 entered a seat to eat at  49.833
+Customer   6 has finished their dinner at  50.761
+Customer   6 left the restaurant at  50.761 and rated 5 stars, the restaurant has 13 customers
+Customer  23 has finished their dinner at  51.406
+Customer  23 left the restaurant at  51.406 and rated 5 stars, the restaurant has 12 customers
+Customer  29 entered a seat to eat at  52.551
+Customer  16 has finished their dinner at  53.231
+Customer  16 left the restaurant at  53.231 and rated 5 stars, the restaurant has 12 customers
+Customer  15 has finished their dinner at  53.398
+Customer  15 left the restaurant at  53.398 and rated 3.0 stars, the restaurant has 11 customers
+Customer  28 has finished their dinner at  55.617
+Customer  28 left the restaurant at  55.617 and rated 5 stars, the restaurant has 10 customers
+Customer  30 entered a seat to eat at  57.482
+Customer  31 entered a seat to eat at  58.201
+Customer  32 entered a seat to eat at  60.169
+Customer  33 entered a seat to eat at  60.632
+Customer  32 has finished their dinner at  60.671
+Customer  32 left the restaurant at  60.671 and rated 3.5 stars, the restaurant has 13 customers
+Customer  33 has finished their dinner at  61.422
+Customer  33 left the restaurant at  61.422 and rated 4.5 stars, the restaurant has 13 customers
+Customer  34 entered a seat to eat at  61.472
+Customer  35 entered a seat to eat at  61.805
+Customer  36 entered a seat to eat at  62.015
+Customer  37 entered a seat to eat at  63.324
+Customer  38 entered a seat to eat at  63.405
+Customer  39 entered a seat to eat at  63.602
+Customer  13 has finished their dinner at  63.790
+Customer  13 left the restaurant at  63.790 and rated 4.5 stars, the restaurant has 17 customers
+Customer  25 has finished their dinner at  63.997
+Customer  25 left the restaurant at  63.997 and rated 4.0 stars, the restaurant has 16 customers
+Customer  40 entered a seat to eat at  64.289
+Customer  41 entered a seat to eat at  64.397
+Customer  42 entered a seat to eat at  64.750
+Customer  43 entered a seat to eat at  66.124
+Customer  44 entered a seat to eat at  67.562
+Customer  45 entered a seat to eat at  67.568
+Customer  46 entered a seat to eat at  67.804
+Customer  47 entered a seat to eat at  68.289
+Customer  43 has finished their dinner at  68.712
+Customer  43 left the restaurant at  68.712 and rated 4.0 stars, the restaurant has 23 customers
+Customer  48 entered a seat to eat at  69.049
+Customer  49 entered a seat to eat at  70.778
+Customer  21 has finished their dinner at  71.808
+Customer  21 left the restaurant at  71.808 and rated 4.5 stars, the restaurant has 24 customers
+Customer  50 entered a seat to eat at  72.800
+Customer  29 has finished their dinner at  72.824
+Customer  29 left the restaurant at  72.824 and rated 5 stars, the restaurant has 24 customers
+Customer  37 has finished their dinner at  72.857
+Customer  37 left the restaurant at  72.857 and rated 4.5 stars, the restaurant has 23 customers
+Customer  46 has finished their dinner at  73.064
+Customer  46 left the restaurant at  73.064 and rated 5 stars, the restaurant has 22 customers
+Customer  51 entered a seat to eat at  74.082
+Customer  39 has finished their dinner at  75.276
+Customer  39 left the restaurant at  75.276 and rated 5 stars, the restaurant has 23 customers
+Customer  52 entered a seat to eat at  75.859
+Customer  53 entered a seat to eat at  75.884
+Customer  54 entered a seat to eat at  76.378
+Customer  55 entered a seat to eat at  76.933
+Customer  56 entered a seat to eat at  77.071
+Customer  41 has finished their dinner at  77.290
+Customer  41 left the restaurant at  77.290 and rated 5 stars, the restaurant has 27 customers
+Customer  17 has finished their dinner at  77.414
+Customer  17 left the restaurant at  77.414 and rated 4.5 stars, the restaurant has 26 customers
+Customer  57 entered a seat to eat at  77.451
+Customer  58 entered a seat to eat at  77.978
+Customer  56 has finished their dinner at  78.500
+Customer  56 left the restaurant at  78.500 and rated 3.5 stars, the restaurant has 26 customers
+Customer  54 has finished their dinner at  78.666
+Customer  54 left the restaurant at  78.666 and rated 3.0 stars, the restaurant has 26 customers
+Customer  59 entered a seat to eat at  78.814
+Customer  60 entered a seat to eat at  79.281
+Customer  61 entered a seat to eat at  79.523
+Customer  62 entered a seat to eat at  79.680
+Customer  35 has finished their dinner at  79.960
+Customer  35 left the restaurant at  79.960 and rated 5 stars, the restaurant has 28 customers
+Customer  31 has finished their dinner at  80.189
+Customer  31 left the restaurant at  80.189 and rated 4.5 stars, the restaurant has 27 customers
+Customer  63 entered a seat to eat at  80.242
+Customer  65 entered a seat to eat at  80.621
+Customer  64 entered a seat to eat at  80.655
+Customer  66 entered a seat to eat at  81.482
+Customer  65 has finished their dinner at  81.742
+Customer  65 left the restaurant at  81.742 and rated 5 stars, the restaurant has 30 customers
+Customer  66 has finished their dinner at  82.537
+Customer  66 left the restaurant at  82.537 and rated 5 stars, the restaurant has 29 customers
+Customer  67 entered a seat to eat at  83.167
+Customer  50 has finished their dinner at  83.994
+Customer  50 left the restaurant at  83.994 and rated 4.0 stars, the restaurant has 29 customers
+Customer  63 has finished their dinner at  84.520
+Customer  63 left the restaurant at  84.520 and rated 5 stars, the restaurant has 28 customers
+Customer  68 entered a seat to eat at  84.908
+Customer  53 has finished their dinner at  85.090
+Customer  53 left the restaurant at  85.090 and rated 4.5 stars, the restaurant has 28 customers
+Customer  61 has finished their dinner at  85.099
+Customer  61 left the restaurant at  85.099 and rated 5 stars, the restaurant has 27 customers
+Customer  36 has finished their dinner at  86.689
+Customer  36 left the restaurant at  86.689 and rated 5 stars, the restaurant has 27 customers
+Customer  69 entered a seat to eat at  86.761
+Customer  64 has finished their dinner at  87.565
+Customer  64 left the restaurant at  87.565 and rated 5 stars, the restaurant has 26 customers
+Customer  44 has finished their dinner at  87.865
+Customer  44 left the restaurant at  87.865 and rated 4.0 stars, the restaurant has 25 customers
+Customer  42 has finished their dinner at  88.020
+Customer  42 left the restaurant at  88.020 and rated 4.5 stars, the restaurant has 26 customers
+Customer  70 entered a seat to eat at  88.136
+Customer  71 entered a seat to eat at  88.354
+Customer  52 has finished their dinner at  88.370
+Customer  52 left the restaurant at  88.370 and rated 2.5 stars, the restaurant has 25 customers
+Customer  72 entered a seat to eat at  88.668
+Customer  73 entered a seat to eat at  88.943
+Customer  74 entered a seat to eat at  90.568
+Customer  26 has finished their dinner at  90.682
+Customer  26 left the restaurant at  90.682 and rated 5 stars, the restaurant has 28 customers
+Customer  75 entered a seat to eat at  90.862
+Customer  76 entered a seat to eat at  91.315
+Customer  77 entered a seat to eat at  92.069
+Customer   4 has finished their dinner at  92.322
+Customer   4 left the restaurant at  92.322 and rated 4.5 stars, the restaurant has 30 customers
+Customer  78 entered a seat to eat at  92.522
+Customer  79 entered a seat to eat at  92.598
+Customer  69 has finished their dinner at  92.909
+Customer  69 left the restaurant at  92.909 and rated 4.5 stars, the restaurant has 31 customers
+Customer  80 entered a seat to eat at  93.016
+Customer  20 has finished their dinner at  93.026
+Customer  20 left the restaurant at  93.026 and rated 4.0 stars, the restaurant has 31 customers
+Customer  75 has finished their dinner at  93.072
+Customer  75 left the restaurant at  93.072 and rated 3.5 stars, the restaurant has 30 customers
+Customer  81 entered a seat to eat at  93.253
+Customer  82 entered a seat to eat at  93.378
+Customer  30 has finished their dinner at  93.469
+Customer  30 left the restaurant at  93.469 and rated 4.5 stars, the restaurant has 30 customers
+Customer  27 has finished their dinner at  93.767
+Customer  27 left the restaurant at  93.767 and rated 3.0 stars, the restaurant has 29 customers
+Customer  60 has finished their dinner at  93.820
+Customer  60 left the restaurant at  93.820 and rated 5 stars, the restaurant has 28 customers
+Customer  73 has finished their dinner at  94.142
+Customer  73 left the restaurant at  94.142 and rated 4.5 stars, the restaurant has 27 customers
+Customer  84 entered a seat to eat at  94.376
+Customer  83 entered a seat to eat at  94.424
+Customer  68 has finished their dinner at  94.480
+Customer  68 left the restaurant at  94.480 and rated 5 stars, the restaurant has 28 customers
+Customer  83 has finished their dinner at  95.179
+Customer  83 left the restaurant at  95.179 and rated 4.0 stars, the restaurant has 27 customers
+Customer  77 has finished their dinner at  96.224
+Customer  77 left the restaurant at  96.224 and rated 4.5 stars, the restaurant has 26 customers
+Customer  45 has finished their dinner at  96.600
+Customer  45 left the restaurant at  96.600 and rated 4.0 stars, the restaurant has 25 customers
+Customer  85 entered a seat to eat at  96.834
+Customer  86 entered a seat to eat at  97.348
+Customer  87 entered a seat to eat at  97.616
+Customer  47 has finished their dinner at  97.665
+Customer  47 left the restaurant at  97.665 and rated 5 stars, the restaurant has 27 customers
+Customer  88 entered a seat to eat at  98.869
+Customer  38 has finished their dinner at  99.287
+Customer  38 left the restaurant at  99.287 and rated 4.5 stars, the restaurant has 27 customers
+Customer  80 has finished their dinner at  99.483
+Customer  80 left the restaurant at  99.483 and rated 4.0 stars, the restaurant has 26 customers
+Customer  89 entered a seat to eat at  99.701
+Customer  91 entered a seat to eat at 100.280
+Customer  90 entered a seat to eat at 100.304
+Customer  92 entered a seat to eat at 100.785
+Customer  59 has finished their dinner at 100.878
+Customer  59 left the restaurant at 100.878 and rated 5 stars, the restaurant has 29 customers
+Customer  24 has finished their dinner at 100.935
+Customer  24 left the restaurant at 100.935 and rated 4.5 stars, the restaurant has 28 customers
+Customer  93 entered a seat to eat at 101.191
+Customer  94 entered a seat to eat at 101.797
+Customer  74 has finished their dinner at 102.018
+Customer  74 left the restaurant at 102.018 and rated 2.5 stars, the restaurant has 29 customers
+Customer  95 entered a seat to eat at 102.412
+Customer  97 entered a seat to eat at 103.018
+Customer  96 entered a seat to eat at 103.021
+Customer  70 has finished their dinner at 103.866
+Customer  70 left the restaurant at 103.866 and rated 5 stars, the restaurant has 31 customers
+Customer  98 entered a seat to eat at 104.438
+Customer  81 has finished their dinner at 105.085
+Customer  81 left the restaurant at 105.085 and rated 4.5 stars, the restaurant has 31 customers
+Customer  92 has finished their dinner at 105.228
+Customer  92 left the restaurant at 105.228 and rated 4.5 stars, the restaurant has 30 customers
+Customer  96 has finished their dinner at 105.469
+Customer  96 left the restaurant at 105.469 and rated 4.5 stars, the restaurant has 29 customers
+Customer  99 entered a seat to eat at 106.255
+Customer 100 entered a seat to eat at 106.553
+Customer  82 has finished their dinner at 106.624
+Customer  82 left the restaurant at 106.624 and rated 4.5 stars, the restaurant has 30 customers
+Customer  79 has finished their dinner at 106.819
+Customer  79 left the restaurant at 106.819 and rated 5 stars, the restaurant has 29 customers
+Customer  62 has finished their dinner at 107.084
+Customer  62 left the restaurant at 107.084 and rated 5 stars, the restaurant has 28 customers
+Customer  76 has finished their dinner at 107.290
+Customer  76 left the restaurant at 107.290 and rated 3.5 stars, the restaurant has 27 customers
+Customer  48 has finished their dinner at 107.456
+Customer  48 left the restaurant at 107.456 and rated 4.5 stars, the restaurant has 26 customers
+Customer  49 has finished their dinner at 107.493
+Customer  49 left the restaurant at 107.493 and rated 5 stars, the restaurant has 25 customers
+Customer 101 entered a seat to eat at 107.990
+Customer 102 entered a seat to eat at 108.449
+Customer  55 has finished their dinner at 108.748
+Customer  55 left the restaurant at 108.748 and rated 4.0 stars, the restaurant has 26 customers
+Customer  89 has finished their dinner at 109.096
+Customer  89 left the restaurant at 109.096 and rated 5 stars, the restaurant has 25 customers
+Customer 103 entered a seat to eat at 110.184
+Customer  94 has finished their dinner at 110.484
+Customer  94 left the restaurant at 110.484 and rated 4.5 stars, the restaurant has 25 customers
+Customer  99 has finished their dinner at 111.260
+Customer  99 left the restaurant at 111.260 and rated 5 stars, the restaurant has 25 customers
+Customer 104 entered a seat to eat at 111.278
+Customer  97 has finished their dinner at 111.290
+Customer  97 left the restaurant at 111.290 and rated 4.0 stars, the restaurant has 24 customers
+Customer 105 entered a seat to eat at 111.603
+Customer 106 entered a seat to eat at 111.635
+Customer  57 has finished their dinner at 112.739
+Customer  57 left the restaurant at 112.739 and rated 4.5 stars, the restaurant has 25 customers
+Customer  58 has finished their dinner at 112.921
+Customer  58 left the restaurant at 112.921 and rated 5 stars, the restaurant has 24 customers
+Customer  78 has finished their dinner at 113.388
+Customer  78 left the restaurant at 113.388 and rated 4.5 stars, the restaurant has 23 customers
+Customer 100 has finished their dinner at 113.750
+Customer 100 left the restaurant at 113.750 and rated 4.0 stars, the restaurant has 23 customers
+Customer 107 entered a seat to eat at 113.899
+Customer 107 has finished their dinner at 114.217
+Customer 107 left the restaurant at 114.217 and rated 5 stars, the restaurant has 22 customers
+Customer  98 has finished their dinner at 114.475
+Customer  98 left the restaurant at 114.475 and rated 4.0 stars, the restaurant has 21 customers
+Customer 105 has finished their dinner at 114.796
+Customer 105 left the restaurant at 114.796 and rated 4.0 stars, the restaurant has 20 customers
+Customer  84 has finished their dinner at 116.170
+Customer  84 left the restaurant at 116.170 and rated 5 stars, the restaurant has 19 customers
+Customer 108 entered a seat to eat at 116.444
+Customer  67 has finished their dinner at 116.502
+Customer  67 left the restaurant at 116.502 and rated 5 stars, the restaurant has 19 customers
+Customer 109 entered a seat to eat at 116.959
+Customer 110 entered a seat to eat at 117.054
+Customer 111 entered a seat to eat at 117.095
+Customer 101 has finished their dinner at 117.263
+Customer 101 left the restaurant at 117.263 and rated 4.5 stars, the restaurant has 21 customers
+Customer  87 has finished their dinner at 117.329
+Customer  87 left the restaurant at 117.329 and rated 3.5 stars, the restaurant has 20 customers
+Customer  93 has finished their dinner at 117.882
+Customer  93 left the restaurant at 117.882 and rated 5 stars, the restaurant has 19 customers
+Customer 109 has finished their dinner at 118.318
+Customer 109 left the restaurant at 118.318 and rated 4.0 stars, the restaurant has 18 customers
+Customer 112 entered a seat to eat at 118.759
+Customer 113 entered a seat to eat at 119.274
+Customer 115 entered a seat to eat at 119.726
+Customer 114 entered a seat to eat at 119.887
+Customer 116 entered a seat to eat at 120.203
+Customer 117 entered a seat to eat at 120.423
+Customer  71 has finished their dinner at 123.401
+Customer  71 left the restaurant at 123.401 and rated 4.5 stars, the restaurant has 23 customers
+Customer  40 has finished their dinner at 125.020
+Customer  40 left the restaurant at 125.020 and rated 5 stars, the restaurant has 22 customers
+Customer  88 has finished their dinner at 126.338
+Customer  88 left the restaurant at 126.338 and rated 3.5 stars, the restaurant has 21 customers
+Customer 118 entered a seat to eat at 127.570
+Customer 117 has finished their dinner at 127.815
+Customer 117 left the restaurant at 127.815 and rated 4.5 stars, the restaurant has 21 customers
+Customer 119 entered a seat to eat at 128.615
+Customer  95 has finished their dinner at 128.774
+Customer  95 left the restaurant at 128.774 and rated 5 stars, the restaurant has 22 customers
+Customer 120 entered a seat to eat at 128.841
+Customer  34 has finished their dinner at 129.630
+Customer  34 left the restaurant at 129.630 and rated 4.5 stars, the restaurant has 21 customers
+Customer 102 has finished their dinner at 129.728
+Customer 102 left the restaurant at 129.728 and rated 4.5 stars, the restaurant has 20 customers
+Customer 121 entered a seat to eat at 131.126
+Customer 120 has finished their dinner at 131.258
+Customer 120 left the restaurant at 131.258 and rated 5 stars, the restaurant has 20 customers
+Customer 121 has finished their dinner at 132.252
+Customer 121 left the restaurant at 132.252 and rated 4.5 stars, the restaurant has 20 customers
+Customer 122 entered a seat to eat at 132.400
+Customer 123 entered a seat to eat at 132.681
+Customer  91 has finished their dinner at 132.938
+Customer  91 left the restaurant at 132.938 and rated 5 stars, the restaurant has 20 customers
+Customer 114 has finished their dinner at 133.050
+Customer 114 left the restaurant at 133.050 and rated 3.5 stars, the restaurant has 19 customers
+Customer 124 entered a seat to eat at 133.510
+Customer  51 has finished their dinner at 134.484
+Customer  51 left the restaurant at 134.484 and rated 5 stars, the restaurant has 19 customers
+Customer 119 has finished their dinner at 134.967
+Customer 119 left the restaurant at 134.967 and rated 5 stars, the restaurant has 18 customers
+Customer 125 entered a seat to eat at 135.384
+Customer  86 has finished their dinner at 136.576
+Customer  86 left the restaurant at 136.576 and rated 5 stars, the restaurant has 19 customers
+Customer 126 entered a seat to eat at 136.714
+Customer 127 entered a seat to eat at 137.067
+Customer 115 has finished their dinner at 138.072
+Customer 115 left the restaurant at 138.072 and rated 4.5 stars, the restaurant has 19 customers
+Customer 116 has finished their dinner at 139.219
+Customer 116 left the restaurant at 139.219 and rated 5 stars, the restaurant has 18 customers
+Customer 118 has finished their dinner at 139.660
+Customer 118 left the restaurant at 139.660 and rated 5 stars, the restaurant has 18 customers
+Customer 128 entered a seat to eat at 139.685
+Customer 110 has finished their dinner at 141.252
+Customer 110 left the restaurant at 141.252 and rated 4.0 stars, the restaurant has 17 customers
+Customer 129 entered a seat to eat at 141.752
+Customer 130 entered a seat to eat at 142.033
+Customer 108 has finished their dinner at 142.428
+Customer 108 left the restaurant at 142.428 and rated 5 stars, the restaurant has 18 customers
+Customer 129 has finished their dinner at 142.518
+Customer 129 left the restaurant at 142.518 and rated 5 stars, the restaurant has 17 customers
+Customer 131 entered a seat to eat at 143.242
+Customer 133 entered a seat to eat at 143.554
+Customer 132 entered a seat to eat at 143.609
+Customer 134 entered a seat to eat at 144.415
+Customer 135 entered a seat to eat at 144.927
+Customer  85 has finished their dinner at 145.091
+Customer  85 left the restaurant at 145.091 and rated 5 stars, the restaurant has 21 customers
+Customer 135 has finished their dinner at 145.295
+Customer 135 left the restaurant at 145.295 and rated 4.5 stars, the restaurant has 20 customers
+Customer 126 has finished their dinner at 145.311
+Customer 126 left the restaurant at 145.311 and rated 4.0 stars, the restaurant has 19 customers
+Customer  72 has finished their dinner at 145.849
+Customer  72 left the restaurant at 145.849 and rated 5 stars, the restaurant has 18 customers
+Customer 104 has finished their dinner at 146.046
+Customer 104 left the restaurant at 146.046 and rated 4.5 stars, the restaurant has 17 customers
+Customer 122 has finished their dinner at 146.273
+Customer 122 left the restaurant at 146.273 and rated 4.0 stars, the restaurant has 16 customers
+Customer  90 has finished their dinner at 146.599
+Customer  90 left the restaurant at 146.599 and rated 4.5 stars, the restaurant has 15 customers
+Customer 136 entered a seat to eat at 148.410
+Customer 137 entered a seat to eat at 148.792
+Customer 103 has finished their dinner at 148.867
+Customer 103 left the restaurant at 148.867 and rated 4.5 stars, the restaurant has 16 customers
+Customer 123 has finished their dinner at 149.830
+Customer 123 left the restaurant at 149.830 and rated 5 stars, the restaurant has 15 customers
+Customer 136 has finished their dinner at 150.543
+Customer 136 left the restaurant at 150.543 and rated 3.0 stars, the restaurant has 14 customers
+Customer 138 entered a seat to eat at 151.734
+Customer 137 has finished their dinner at 152.142
+Customer 137 left the restaurant at 152.142 and rated 4.0 stars, the restaurant has 15 customers
+Customer 139 entered a seat to eat at 152.176
+Customer 140 entered a seat to eat at 152.911
+Customer 134 has finished their dinner at 153.869
+Customer 134 left the restaurant at 153.869 and rated 5 stars, the restaurant has 15 customers
+Customer 112 has finished their dinner at 153.897
+Customer 112 left the restaurant at 153.897 and rated 4.0 stars, the restaurant has 14 customers
+Customer 141 entered a seat to eat at 154.861
+Customer 113 has finished their dinner at 154.923
+Customer 113 left the restaurant at 154.923 and rated 5 stars, the restaurant has 14 customers
+Customer 130 has finished their dinner at 154.944
+Customer 130 left the restaurant at 154.944 and rated 5 stars, the restaurant has 13 customers
+Customer 111 has finished their dinner at 155.413
+Customer 111 left the restaurant at 155.413 and rated 5 stars, the restaurant has 13 customers
+Customer 142 entered a seat to eat at 155.542
+Customer 143 entered a seat to eat at 155.804
+Customer 140 has finished their dinner at 155.891
+Customer 140 left the restaurant at 155.891 and rated 4.0 stars, the restaurant has 13 customers
+Customer 142 has finished their dinner at 156.114
+Customer 142 left the restaurant at 156.114 and rated 4.5 stars, the restaurant has 12 customers
+Customer 139 has finished their dinner at 156.490
+Customer 139 left the restaurant at 156.490 and rated 4.5 stars, the restaurant has 11 customers
+Customer 144 entered a seat to eat at 156.920
+Customer 145 entered a seat to eat at 158.070
+Customer 128 has finished their dinner at 159.420
+Customer 128 left the restaurant at 159.420 and rated 5 stars, the restaurant has 12 customers
+Customer 147 entered a seat to eat at 159.724
+Customer 146 entered a seat to eat at 159.827
+Customer 132 has finished their dinner at 161.090
+Customer 132 left the restaurant at 161.090 and rated 4.0 stars, the restaurant has 14 customers
+Customer 148 entered a seat to eat at 161.303
+Customer 149 entered a seat to eat at 162.366
+Customer 125 has finished their dinner at 162.777
+Customer 125 left the restaurant at 162.777 and rated 4.5 stars, the restaurant has 14 customers
+Customer 151 entered a seat to eat at 162.947
+Customer 150 entered a seat to eat at 163.198
+Customer 152 entered a seat to eat at 164.307
+Customer 153 entered a seat to eat at 164.819
+Customer 154 entered a seat to eat at 165.162
+Customer 127 has finished their dinner at 165.627
+Customer 127 left the restaurant at 165.627 and rated 4.5 stars, the restaurant has 18 customers
+Customer 155 entered a seat to eat at 166.052
+Customer 156 entered a seat to eat at 167.977
+Customer 133 has finished their dinner at 169.281
+Customer 133 left the restaurant at 169.281 and rated 4.5 stars, the restaurant has 19 customers
+Customer 156 has finished their dinner at 169.369
+Customer 156 left the restaurant at 169.369 and rated 4.0 stars, the restaurant has 18 customers
+Customer 146 has finished their dinner at 169.611
+Customer 146 left the restaurant at 169.611 and rated 4.5 stars, the restaurant has 17 customers
+Customer 151 has finished their dinner at 169.688
+Customer 151 left the restaurant at 169.688 and rated 5 stars, the restaurant has 16 customers
+Customer 148 has finished their dinner at 169.990
+Customer 148 left the restaurant at 169.990 and rated 4.5 stars, the restaurant has 16 customers
+Customer 157 entered a seat to eat at 170.446
+Customer 150 has finished their dinner at 171.265
+Customer 150 left the restaurant at 171.265 and rated 4.0 stars, the restaurant has 15 customers
+Customer 157 has finished their dinner at 172.046
+Customer 157 left the restaurant at 172.046 and rated 4.0 stars, the restaurant has 14 customers
+Customer 153 has finished their dinner at 172.766
+Customer 153 left the restaurant at 172.766 and rated 3.5 stars, the restaurant has 13 customers
+Customer 158 entered a seat to eat at 173.685
+Customer 159 entered a seat to eat at 174.243
+Customer 138 has finished their dinner at 174.297
+Customer 138 left the restaurant at 174.297 and rated 4.5 stars, the restaurant has 14 customers
+Customer 147 has finished their dinner at 174.657
+Customer 147 left the restaurant at 174.657 and rated 5 stars, the restaurant has 13 customers
+Customer 160 entered a seat to eat at 175.632
+Customer 161 entered a seat to eat at 176.067
+Customer 161 has finished their dinner at 176.600
+Customer 161 left the restaurant at 176.600 and rated 5 stars, the restaurant has 15 customers
+Customer 162 entered a seat to eat at 177.254
+Customer 145 has finished their dinner at 177.571
+Customer 145 left the restaurant at 177.571 and rated 5 stars, the restaurant has 14 customers
+Customer 163 entered a seat to eat at 178.263
+Customer 163 has finished their dinner at 181.026
+Customer 163 left the restaurant at 181.026 and rated 5 stars, the restaurant has 14 customers
+Customer 164 entered a seat to eat at 182.004
+Customer 160 has finished their dinner at 182.492
+Customer 160 left the restaurant at 182.492 and rated 2.0 stars, the restaurant has 14 customers
+Customer 165 entered a seat to eat at 184.608
+Customer 165 has finished their dinner at 186.570
+Customer 165 left the restaurant at 186.570 and rated 4.5 stars, the restaurant has 14 customers
+Customer 164 has finished their dinner at 187.114
+Customer 164 left the restaurant at 187.114 and rated 4.0 stars, the restaurant has 13 customers
+Customer 124 has finished their dinner at 192.492
+Customer 124 left the restaurant at 192.492 and rated 5 stars, the restaurant has 12 customers
+Customer 144 has finished their dinner at 192.951
+Customer 144 left the restaurant at 192.951 and rated 4.5 stars, the restaurant has 11 customers
+Customer 131 has finished their dinner at 193.247
+Customer 131 left the restaurant at 193.247 and rated 4.0 stars, the restaurant has 10 customers
+Customer 106 has finished their dinner at 194.374
+Customer 106 left the restaurant at 194.374 and rated 5 stars, the restaurant has 9 customers
+Customer 149 has finished their dinner at 195.739
+Customer 149 left the restaurant at 195.739 and rated 4.0 stars, the restaurant has 8 customers
+Customer 152 has finished their dinner at 196.227
+Customer 152 left the restaurant at 196.227 and rated 5 stars, the restaurant has 8 customers
+Customer 166 entered a seat to eat at 196.466
+Customer 166 has finished their dinner at 197.042
+Customer 166 left the restaurant at 197.042 and rated 4.5 stars, the restaurant has 7 customers
+Customer 158 has finished their dinner at 197.367
+Customer 158 left the restaurant at 197.367 and rated 3.0 stars, the restaurant has 6 customers
+Customer 155 has finished their dinner at 198.351
+Customer 155 left the restaurant at 198.351 and rated 4.0 stars, the restaurant has 5 customers
+Customer 167 entered a seat to eat at 200.469
+Customer 168 entered a seat to eat at 200.576
+Customer 167 has finished their dinner at 201.984
+Customer 167 left the restaurant at 201.984 and rated 5 stars, the restaurant has 6 customers
+Customer 141 has finished their dinner at 202.003
+Customer 141 left the restaurant at 202.003 and rated 5 stars, the restaurant has 5 customers
+Customer 168 has finished their dinner at 203.678
+Customer 168 left the restaurant at 203.678 and rated 5 stars, the restaurant has 4 customers
+Customer 143 has finished their dinner at 205.678
+Customer 143 left the restaurant at 205.678 and rated 5 stars, the restaurant has 3 customers
+Customer 162 has finished their dinner at 206.575
+Customer 162 left the restaurant at 206.575 and rated 3.0 stars, the restaurant has 3 customers
+Customer 169 entered a seat to eat at 206.653
+Customer 159 has finished their dinner at 212.566
+Customer 159 left the restaurant at 212.566 and rated 1.5 stars, the restaurant has 2 customers
+Customer 154 has finished their dinner at 213.681
+Customer 154 left the restaurant at 213.681 and rated 5 stars, the restaurant has 1 customers
+Customer 170 entered a seat to eat at 214.442
+Customer 171 entered a seat to eat at 215.676
+Customer 169 has finished their dinner at 219.218
+Customer 169 left the restaurant at 219.218 and rated 4.0 stars, the restaurant has 2 customers
+Customer 172 entered a seat to eat at 220.658
+Customer 171 has finished their dinner at 229.758
+Customer 171 left the restaurant at 229.758 and rated 4.5 stars, the restaurant has 2 customers
+Customer 172 has finished their dinner at 231.933
+Customer 172 left the restaurant at 231.933 and rated 5 stars, the restaurant has 1 customers
+Customer 173 entered a seat to eat at 234.257
+Customer 173 has finished their dinner at 241.067
+Customer 173 left the restaurant at 241.067 and rated 5 stars, the restaurant has 1 customers
+Customer 174 entered a seat to eat at 242.974
+Customer 175 entered a seat to eat at 257.634
+Customer 170 has finished their dinner at 268.729
+Customer 170 left the restaurant at 268.729 and rated 4.5 stars, the restaurant has 2 customers
+Customer 176 entered a seat to eat at 269.915
+Customer 174 has finished their dinner at 274.659
+Customer 174 left the restaurant at 274.659 and rated 4.5 stars, the restaurant has 2 customers
+Customer 175 has finished their dinner at 282.641
+Customer 175 left the restaurant at 282.641 and rated 4.0 stars, the restaurant has 1 customers
+Customer 176 has finished their dinner at 284.073
+Customer 176 left the restaurant at 284.073 and rated 5 stars, the restaurant has 0 customers
