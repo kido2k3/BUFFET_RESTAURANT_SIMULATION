@@ -1,0 +1,417 @@
+Customer   0 entered appetizer queue at   0.093
+Customer   0 was getting served at appetizer at   0.093
+Customer   0 left appetizer at   0.152
+Customer   1 entered appetizer queue at   2.043
+Customer   1 was getting served at appetizer at   2.043
+Customer   1 left appetizer at   2.127
+Customer   2 entered appetizer queue at   3.595
+Customer   2 was getting served at appetizer at   3.595
+Customer   2 left appetizer at   3.805
+Customer   4 entered appetizer queue at   7.904
+Customer   4 was getting served at appetizer at   7.904
+Customer   4 left appetizer at   7.907
+Customer   5 entered appetizer queue at   9.798
+Customer   5 was getting served at appetizer at   9.798
+Customer   5 left appetizer at   9.820
+Customer   6 entered appetizer queue at  13.567
+Customer   6 was getting served at appetizer at  13.567
+Customer   6 left appetizer at  13.618
+Customer   8 entered appetizer queue at  22.090
+Customer   8 was getting served at appetizer at  22.090
+Customer   8 left appetizer at  22.100
+Customer   9 entered appetizer queue at  24.549
+Customer   9 was getting served at appetizer at  24.549
+Customer   9 left appetizer at  24.597
+Customer  13 entered appetizer queue at  27.916
+Customer  13 was getting served at appetizer at  27.916
+Customer  13 left appetizer at  27.977
+Customer  14 entered appetizer queue at  31.008
+Customer  14 was getting served at appetizer at  31.008
+Customer  14 left appetizer at  31.017
+Customer  15 entered appetizer queue at  31.684
+Customer  15 was getting served at appetizer at  31.684
+Customer  15 left appetizer at  31.861
+Customer  16 entered appetizer queue at  33.178
+Customer  16 was getting served at appetizer at  33.178
+Customer  16 left appetizer at  33.206
+Customer  17 entered appetizer queue at  34.522
+Customer  17 was getting served at appetizer at  34.522
+Customer  17 left appetizer at  34.608
+Customer  18 entered appetizer queue at  34.929
+Customer  18 was getting served at appetizer at  34.929
+Customer  18 left appetizer at  34.936
+Customer  19 entered appetizer queue at  36.524
+Customer  19 was getting served at appetizer at  36.524
+Customer  19 left appetizer at  36.543
+Customer  20 entered appetizer queue at  40.560
+Customer  20 was getting served at appetizer at  40.560
+Customer  20 left appetizer at  40.564
+Customer  21 entered appetizer queue at  40.947
+Customer  21 was getting served at appetizer at  40.947
+Customer  21 left appetizer at  41.102
+Customer  22 entered appetizer queue at  44.720
+Customer  22 was getting served at appetizer at  44.720
+Customer  22 left appetizer at  44.737
+Customer  23 entered appetizer queue at  45.935
+Customer  23 was getting served at appetizer at  45.935
+Customer  23 left appetizer at  45.939
+Customer  24 entered appetizer queue at  47.841
+Customer  24 was getting served at appetizer at  47.841
+Customer  24 left appetizer at  47.899
+Customer  26 entered appetizer queue at  48.069
+Customer  26 was getting served at appetizer at  48.069
+Customer  26 left appetizer at  48.074
+Customer  25 entered appetizer queue at  48.247
+Customer  25 was getting served at appetizer at  48.247
+Customer  25 left appetizer at  48.278
+Customer  27 entered appetizer queue at  49.462
+Customer  27 was getting served at appetizer at  49.462
+Customer  27 left appetizer at  49.648
+Customer  29 entered appetizer queue at  52.453
+Customer  29 was getting served at appetizer at  52.453
+Customer  29 left appetizer at  52.551
+Customer  31 entered appetizer queue at  57.797
+Customer  31 was getting served at appetizer at  57.797
+Customer  31 left appetizer at  57.799
+Customer  32 entered appetizer queue at  60.027
+Customer  32 was getting served at appetizer at  60.027
+Customer  32 left appetizer at  60.169
+Customer  34 entered appetizer queue at  61.272
+Customer  34 was getting served at appetizer at  61.272
+Customer  34 left appetizer at  61.305
+Customer  35 entered appetizer queue at  61.802
+Customer  35 was getting served at appetizer at  61.802
+Customer  35 left appetizer at  61.805
+Customer  36 entered appetizer queue at  61.928
+Customer  36 was getting served at appetizer at  61.928
+Customer  36 left appetizer at  61.966
+Customer  38 entered appetizer queue at  63.020
+Customer  38 was getting served at appetizer at  63.020
+Customer  38 left appetizer at  63.051
+Customer  37 entered appetizer queue at  63.234
+Customer  37 was getting served at appetizer at  63.234
+Customer  37 left appetizer at  63.281
+Customer  39 entered appetizer queue at  63.420
+Customer  39 was getting served at appetizer at  63.420
+Customer  39 left appetizer at  63.442
+Customer  42 entered appetizer queue at  64.696
+Customer  42 was getting served at appetizer at  64.696
+Customer  42 left appetizer at  64.742
+Customer  43 entered appetizer queue at  65.899
+Customer  43 was getting served at appetizer at  65.899
+Customer  43 left appetizer at  65.912
+Customer  44 entered appetizer queue at  67.396
+Customer  44 was getting served at appetizer at  67.396
+Customer  44 left appetizer at  67.514
+Customer  45 entered appetizer queue at  67.548
+Customer  45 was getting served at appetizer at  67.548
+Customer  45 left appetizer at  67.568
+Customer  46 entered appetizer queue at  67.770
+Customer  46 was getting served at appetizer at  67.770
+Customer  46 left appetizer at  67.797
+Customer  47 entered appetizer queue at  68.257
+Customer  47 was getting served at appetizer at  68.257
+Customer  47 left appetizer at  68.289
+Customer  49 entered appetizer queue at  70.553
+Customer  49 was getting served at appetizer at  70.553
+Customer  49 left appetizer at  70.598
+Customer  50 entered appetizer queue at  72.736
+Customer  50 was getting served at appetizer at  72.736
+Customer  50 left appetizer at  72.796
+Customer  51 entered appetizer queue at  74.061
+Customer  51 was getting served at appetizer at  74.061
+Customer  51 left appetizer at  74.082
+Customer  52 entered appetizer queue at  75.241
+Customer  52 was getting served at appetizer at  75.241
+Customer  52 left appetizer at  75.242
+Customer  53 entered appetizer queue at  75.755
+Customer  53 was getting served at appetizer at  75.755
+Customer  53 left appetizer at  75.764
+Customer  55 entered appetizer queue at  76.768
+Customer  55 was getting served at appetizer at  76.768
+Customer  55 left appetizer at  76.775
+Customer  57 entered appetizer queue at  77.329
+Customer  57 was getting served at appetizer at  77.329
+Customer  57 left appetizer at  77.367
+Customer  59 entered appetizer queue at  78.586
+Customer  59 was getting served at appetizer at  78.586
+Customer  59 left appetizer at  78.704
+Customer  60 entered appetizer queue at  79.227
+Customer  60 was getting served at appetizer at  79.227
+Customer  60 left appetizer at  79.281
+Customer  61 entered appetizer queue at  79.474
+Customer  61 was getting served at appetizer at  79.474
+Customer  61 left appetizer at  79.480
+Customer  62 entered appetizer queue at  79.599
+Customer  62 was getting served at appetizer at  79.599
+Customer  62 left appetizer at  79.653
+Customer  63 entered appetizer queue at  80.234
+Customer  63 was getting served at appetizer at  80.234
+Customer  63 left appetizer at  80.242
+Customer  64 entered appetizer queue at  80.399
+Customer  64 was getting served at appetizer at  80.399
+Customer  64 left appetizer at  80.489
+Customer  65 entered appetizer queue at  80.618
+Customer  65 was getting served at appetizer at  80.618
+Customer  65 left appetizer at  80.621
+Customer  66 entered appetizer queue at  81.468
+Customer  66 was getting served at appetizer at  81.468
+Customer  66 left appetizer at  81.482
+Customer  69 entered appetizer queue at  86.695
+Customer  69 was getting served at appetizer at  86.695
+Customer  69 left appetizer at  86.761
+Customer  71 entered appetizer queue at  87.997
+Customer  71 was getting served at appetizer at  87.997
+Customer  71 left appetizer at  88.020
+Customer  70 entered appetizer queue at  88.099
+Customer  70 was getting served at appetizer at  88.099
+Customer  70 left appetizer at  88.136
+Customer  73 entered appetizer queue at  88.853
+Customer  73 was getting served at appetizer at  88.853
+Customer  73 left appetizer at  88.942
+Customer  74 entered appetizer queue at  90.319
+Customer  74 was getting served at appetizer at  90.319
+Customer  74 left appetizer at  90.362
+Customer  75 entered appetizer queue at  90.408
+Customer  75 was getting served at appetizer at  90.408
+Customer  75 left appetizer at  90.794
+Customer  77 entered appetizer queue at  91.837
+Customer  77 was getting served at appetizer at  91.837
+Customer  77 left appetizer at  91.971
+Customer  78 entered appetizer queue at  92.440
+Customer  78 was getting served at appetizer at  92.440
+Customer  79 entered appetizer queue at  92.457
+Customer  79 was getting served at appetizer at  92.457
+Customer  79 left appetizer at  92.510
+Customer  78 left appetizer at  92.522
+Customer  80 entered appetizer queue at  92.976
+Customer  80 was getting served at appetizer at  92.976
+Customer  80 left appetizer at  93.016
+Customer  82 entered appetizer queue at  93.244
+Customer  82 was getting served at appetizer at  93.244
+Customer  82 left appetizer at  93.378
+Customer  83 entered appetizer queue at  94.214
+Customer  83 was getting served at appetizer at  94.214
+Customer  83 left appetizer at  94.350
+Customer  86 entered appetizer queue at  97.220
+Customer  86 was getting served at appetizer at  97.220
+Customer  86 left appetizer at  97.348
+Customer  87 entered appetizer queue at  97.411
+Customer  87 was getting served at appetizer at  97.411
+Customer  87 left appetizer at  97.616
+Customer  89 entered appetizer queue at  99.669
+Customer  89 was getting served at appetizer at  99.669
+Customer  89 left appetizer at  99.672
+Customer  90 entered appetizer queue at 100.017
+Customer  90 was getting served at appetizer at 100.017
+Customer  90 left appetizer at 100.029
+Customer  92 entered appetizer queue at 100.613
+Customer  92 was getting served at appetizer at 100.613
+Customer  92 left appetizer at 100.692
+Customer  93 entered appetizer queue at 101.070
+Customer  93 was getting served at appetizer at 101.070
+Customer  93 left appetizer at 101.102
+Customer  94 entered appetizer queue at 101.734
+Customer  94 was getting served at appetizer at 101.734
+Customer  94 left appetizer at 101.797
+Customer  95 entered appetizer queue at 102.087
+Customer  95 was getting served at appetizer at 102.087
+Customer  95 left appetizer at 102.153
+Customer  96 entered appetizer queue at 102.930
+Customer  96 was getting served at appetizer at 102.930
+Customer  96 left appetizer at 103.021
+Customer  98 entered appetizer queue at 103.924
+Customer  98 was getting served at appetizer at 103.924
+Customer  98 left appetizer at 104.055
+Customer  99 entered appetizer queue at 106.017
+Customer  99 was getting served at appetizer at 106.017
+Customer 100 entered appetizer queue at 106.081
+Customer 100 was getting served at appetizer at 106.081
+Customer 100 left appetizer at 106.123
+Customer  99 left appetizer at 106.132
+Customer 101 entered appetizer queue at 107.804
+Customer 101 was getting served at appetizer at 107.804
+Customer 101 left appetizer at 107.949
+Customer 103 entered appetizer queue at 109.984
+Customer 103 was getting served at appetizer at 109.984
+Customer 103 left appetizer at 110.184
+Customer 104 entered appetizer queue at 111.080
+Customer 104 was getting served at appetizer at 111.080
+Customer 104 left appetizer at 111.278
+Customer 105 entered appetizer queue at 111.525
+Customer 105 was getting served at appetizer at 111.525
+Customer 105 left appetizer at 111.529
+Customer 106 entered appetizer queue at 111.582
+Customer 106 was getting served at appetizer at 111.582
+Customer 106 left appetizer at 111.608
+Customer 107 entered appetizer queue at 113.680
+Customer 107 was getting served at appetizer at 113.680
+Customer 107 left appetizer at 113.688
+Customer 108 entered appetizer queue at 116.314
+Customer 108 was getting served at appetizer at 116.314
+Customer 108 left appetizer at 116.414
+Customer 110 entered appetizer queue at 117.047
+Customer 110 was getting served at appetizer at 117.047
+Customer 110 left appetizer at 117.054
+Customer 112 entered appetizer queue at 118.692
+Customer 112 was getting served at appetizer at 118.692
+Customer 112 left appetizer at 118.732
+Customer 113 entered appetizer queue at 119.270
+Customer 113 was getting served at appetizer at 119.270
+Customer 113 left appetizer at 119.274
+Customer 114 entered appetizer queue at 119.876
+Customer 114 was getting served at appetizer at 119.876
+Customer 114 left appetizer at 119.887
+Customer 116 entered appetizer queue at 120.079
+Customer 116 was getting served at appetizer at 120.079
+Customer 116 left appetizer at 120.203
+Customer 118 entered appetizer queue at 127.464
+Customer 118 was getting served at appetizer at 127.464
+Customer 118 left appetizer at 127.520
+Customer 119 entered appetizer queue at 128.540
+Customer 119 was getting served at appetizer at 128.540
+Customer 119 left appetizer at 128.615
+Customer 120 entered appetizer queue at 128.747
+Customer 120 was getting served at appetizer at 128.747
+Customer 120 left appetizer at 128.841
+Customer 122 entered appetizer queue at 132.220
+Customer 122 was getting served at appetizer at 132.220
+Customer 122 left appetizer at 132.316
+Customer 123 entered appetizer queue at 132.549
+Customer 123 was getting served at appetizer at 132.549
+Customer 123 left appetizer at 132.681
+Customer 124 entered appetizer queue at 133.497
+Customer 124 was getting served at appetizer at 133.497
+Customer 124 left appetizer at 133.510
+Customer 125 entered appetizer queue at 135.248
+Customer 125 was getting served at appetizer at 135.248
+Customer 125 left appetizer at 135.384
+Customer 126 entered appetizer queue at 136.467
+Customer 126 was getting served at appetizer at 136.467
+Customer 126 left appetizer at 136.517
+Customer 128 entered appetizer queue at 139.552
+Customer 128 was getting served at appetizer at 139.552
+Customer 128 left appetizer at 139.685
+Customer 129 entered appetizer queue at 141.602
+Customer 129 was getting served at appetizer at 141.602
+Customer 129 left appetizer at 141.662
+Customer 130 entered appetizer queue at 141.961
+Customer 130 was getting served at appetizer at 141.961
+Customer 130 left appetizer at 142.001
+Customer 131 entered appetizer queue at 143.185
+Customer 131 was getting served at appetizer at 143.185
+Customer 131 left appetizer at 143.204
+Customer 133 entered appetizer queue at 143.531
+Customer 133 was getting served at appetizer at 143.531
+Customer 133 left appetizer at 143.554
+Customer 132 entered appetizer queue at 143.582
+Customer 132 was getting served at appetizer at 143.582
+Customer 132 left appetizer at 143.609
+Customer 136 entered appetizer queue at 148.232
+Customer 136 was getting served at appetizer at 148.232
+Customer 136 left appetizer at 148.247
+Customer 137 entered appetizer queue at 148.607
+Customer 137 was getting served at appetizer at 148.607
+Customer 137 left appetizer at 148.746
+Customer 139 entered appetizer queue at 151.944
+Customer 139 was getting served at appetizer at 151.944
+Customer 139 left appetizer at 151.962
+Customer 140 entered appetizer queue at 152.448
+Customer 140 was getting served at appetizer at 152.448
+Customer 140 left appetizer at 152.548
+Customer 141 entered appetizer queue at 154.812
+Customer 141 was getting served at appetizer at 154.812
+Customer 141 left appetizer at 154.834
+Customer 143 entered appetizer queue at 155.548
+Customer 143 was getting served at appetizer at 155.548
+Customer 143 left appetizer at 155.670
+Customer 145 entered appetizer queue at 157.965
+Customer 145 was getting served at appetizer at 157.965
+Customer 145 left appetizer at 157.983
+Customer 146 entered appetizer queue at 159.598
+Customer 146 was getting served at appetizer at 159.598
+Customer 146 left appetizer at 159.683
+Customer 147 entered appetizer queue at 159.706
+Customer 147 was getting served at appetizer at 159.706
+Customer 147 left appetizer at 159.720
+Customer 148 entered appetizer queue at 161.199
+Customer 148 was getting served at appetizer at 161.199
+Customer 148 left appetizer at 161.218
+Customer 149 entered appetizer queue at 162.299
+Customer 149 was getting served at appetizer at 162.299
+Customer 149 left appetizer at 162.366
+Customer 151 entered appetizer queue at 162.859
+Customer 151 was getting served at appetizer at 162.859
+Customer 151 left appetizer at 162.884
+Customer 152 entered appetizer queue at 164.207
+Customer 152 was getting served at appetizer at 164.207
+Customer 152 left appetizer at 164.234
+Customer 153 entered appetizer queue at 164.812
+Customer 153 was getting served at appetizer at 164.812
+Customer 153 left appetizer at 164.819
+Customer 154 entered appetizer queue at 165.075
+Customer 154 was getting served at appetizer at 165.075
+Customer 154 left appetizer at 165.162
+Customer 155 entered appetizer queue at 166.022
+Customer 155 was getting served at appetizer at 166.022
+Customer 155 left appetizer at 166.052
+Customer 156 entered appetizer queue at 167.848
+Customer 156 was getting served at appetizer at 167.848
+Customer 156 left appetizer at 167.974
+Customer 157 entered appetizer queue at 170.407
+Customer 157 was getting served at appetizer at 170.407
+Customer 157 left appetizer at 170.446
+Customer 158 entered appetizer queue at 173.128
+Customer 158 was getting served at appetizer at 173.128
+Customer 158 left appetizer at 173.217
+Customer 159 entered appetizer queue at 174.234
+Customer 159 was getting served at appetizer at 174.234
+Customer 159 left appetizer at 174.243
+Customer 160 entered appetizer queue at 175.518
+Customer 160 was getting served at appetizer at 175.518
+Customer 160 left appetizer at 175.592
+Customer 161 entered appetizer queue at 175.732
+Customer 161 was getting served at appetizer at 175.732
+Customer 161 left appetizer at 175.837
+Customer 162 entered appetizer queue at 176.474
+Customer 162 was getting served at appetizer at 176.474
+Customer 162 left appetizer at 176.537
+Customer 163 entered appetizer queue at 178.137
+Customer 163 was getting served at appetizer at 178.137
+Customer 163 left appetizer at 178.178
+Customer 164 entered appetizer queue at 181.713
+Customer 164 was getting served at appetizer at 181.713
+Customer 164 left appetizer at 181.762
+Customer 165 entered appetizer queue at 184.535
+Customer 165 was getting served at appetizer at 184.535
+Customer 165 left appetizer at 184.549
+Customer 166 entered appetizer queue at 196.350
+Customer 166 was getting served at appetizer at 196.350
+Customer 166 left appetizer at 196.466
+Customer 167 entered appetizer queue at 200.383
+Customer 167 was getting served at appetizer at 200.383
+Customer 167 left appetizer at 200.451
+Customer 168 entered appetizer queue at 200.549
+Customer 168 was getting served at appetizer at 200.549
+Customer 168 left appetizer at 200.576
+Customer 170 entered appetizer queue at 214.331
+Customer 170 was getting served at appetizer at 214.331
+Customer 170 left appetizer at 214.442
+Customer 171 entered appetizer queue at 215.375
+Customer 171 was getting served at appetizer at 215.375
+Customer 171 left appetizer at 215.421
+Customer 172 entered appetizer queue at 220.491
+Customer 172 was getting served at appetizer at 220.491
+Customer 172 left appetizer at 220.536
+Customer 173 entered appetizer queue at 234.200
+Customer 173 was getting served at appetizer at 234.200
+Customer 173 left appetizer at 234.230
+Customer 174 entered appetizer queue at 242.940
+Customer 174 was getting served at appetizer at 242.940
+Customer 174 left appetizer at 242.974
+Customer 175 entered appetizer queue at 257.632
+Customer 175 was getting served at appetizer at 257.632
+Customer 175 left appetizer at 257.634
+Customer 176 entered appetizer queue at 269.780
+Customer 176 was getting served at appetizer at 269.780
+Customer 176 left appetizer at 269.842

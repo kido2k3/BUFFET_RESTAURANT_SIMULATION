@@ -1,0 +1,459 @@
+Customer   0 entered desserts queue at   0.152
+Customer   0 was getting served at desserts at   0.152
+Customer   0 left desserts at   0.155
+Customer   1 entered desserts queue at   2.127
+Customer   1 was getting served at desserts at   2.127
+Customer   1 left desserts at   2.192
+Customer   2 entered desserts queue at   3.805
+Customer   2 was getting served at desserts at   3.805
+Customer   2 left desserts at   3.814
+Customer   3 entered desserts queue at   6.905
+Customer   3 was getting served at desserts at   6.905
+Customer   3 left desserts at   6.969
+Customer   4 entered desserts queue at   7.907
+Customer   4 was getting served at desserts at   7.907
+Customer   4 left desserts at   8.030
+Customer   6 entered desserts queue at  13.627
+Customer   6 was getting served at desserts at  13.627
+Customer   6 left desserts at  13.653
+Customer   7 entered desserts queue at  19.089
+Customer   7 was getting served at desserts at  19.089
+Customer   7 left desserts at  19.115
+Customer   8 entered desserts queue at  21.997
+Customer   8 was getting served at desserts at  21.997
+Customer   8 left desserts at  22.039
+Customer   9 entered desserts queue at  24.681
+Customer   9 was getting served at desserts at  24.681
+Customer   9 left desserts at  24.812
+Customer  10 entered desserts queue at  26.424
+Customer  10 was getting served at desserts at  26.424
+Customer  10 left desserts at  26.546
+Customer  11 entered desserts queue at  26.651
+Customer  11 was getting served at desserts at  26.651
+Customer  11 left desserts at  26.949
+Customer  12 entered desserts queue at  26.974
+Customer  12 was getting served at desserts at  26.974
+Customer  12 left desserts at  27.127
+Customer  13 entered desserts queue at  27.977
+Customer  13 was getting served at desserts at  27.977
+Customer  13 left desserts at  27.978
+Customer  14 entered desserts queue at  31.017
+Customer  14 was getting served at desserts at  31.017
+Customer  14 left desserts at  31.261
+Customer  15 entered desserts queue at  31.965
+Customer  15 was getting served at desserts at  31.965
+Customer  15 left desserts at  32.409
+Customer  16 entered desserts queue at  33.280
+Customer  16 was getting served at desserts at  33.280
+Customer  16 left desserts at  33.286
+Customer  17 entered desserts queue at  34.502
+Customer  17 was getting served at desserts at  34.502
+Customer  17 left desserts at  34.522
+Customer  18 entered desserts queue at  34.936
+Customer  18 was getting served at desserts at  34.936
+Customer  18 left desserts at  34.972
+Customer  19 entered desserts queue at  36.490
+Customer  19 was getting served at desserts at  36.490
+Customer  19 left desserts at  36.524
+Customer  21 entered desserts queue at  40.892
+Customer  21 was getting served at desserts at  40.892
+Customer  21 left desserts at  40.947
+Customer  22 entered desserts queue at  44.706
+Customer  22 was getting served at desserts at  44.706
+Customer  22 left desserts at  44.720
+Customer  23 entered desserts queue at  45.939
+Customer  23 was getting served at desserts at  45.939
+Customer  23 left desserts at  45.946
+Customer  24 entered desserts queue at  47.954
+Customer  24 was getting served at desserts at  47.954
+Customer  24 left desserts at  47.977
+Customer  25 entered desserts queue at  48.278
+Customer  25 was getting served at desserts at  48.278
+Customer  25 left desserts at  48.326
+Customer  27 entered desserts queue at  49.432
+Customer  27 was getting served at desserts at  49.432
+Customer  27 left desserts at  49.462
+Customer  28 entered desserts queue at  49.779
+Customer  28 was getting served at desserts at  49.779
+Customer  28 left desserts at  49.798
+Customer  29 entered desserts queue at  52.403
+Customer  29 was getting served at desserts at  52.403
+Customer  29 left desserts at  52.449
+Customer  30 entered desserts queue at  57.308
+Customer  30 was getting served at desserts at  57.308
+Customer  30 left desserts at  57.410
+Customer  31 entered desserts queue at  58.105
+Customer  31 was getting served at desserts at  58.105
+Customer  31 left desserts at  58.201
+Customer  32 entered desserts queue at  59.610
+Customer  32 was getting served at desserts at  59.610
+Customer  32 left desserts at  59.913
+Customer  33 entered desserts queue at  60.591
+Customer  33 was getting served at desserts at  60.591
+Customer  33 left desserts at  60.632
+Customer  34 entered desserts queue at  61.223
+Customer  34 was getting served at desserts at  61.223
+Customer  34 left desserts at  61.259
+Customer  35 entered desserts queue at  61.685
+Customer  35 was getting served at desserts at  61.685
+Customer  35 left desserts at  61.780
+Customer  36 entered desserts queue at  61.990
+Customer  36 was getting served at desserts at  61.990
+Customer  36 left desserts at  62.015
+Customer  37 entered desserts queue at  63.281
+Customer  37 was getting served at desserts at  63.281
+Customer  38 entered desserts queue at  63.305
+Customer  37 left desserts at  63.314
+Customer  38 was getting served at desserts at  63.314
+Customer  38 left desserts at  63.405
+Customer  39 entered desserts queue at  63.442
+Customer  39 was getting served at desserts at  63.442
+Customer  39 left desserts at  63.571
+Customer  40 entered desserts queue at  64.249
+Customer  40 was getting served at desserts at  64.249
+Customer  40 left desserts at  64.264
+Customer  42 entered desserts queue at  64.497
+Customer  42 was getting served at desserts at  64.497
+Customer  42 left desserts at  64.678
+Customer  43 entered desserts queue at  65.912
+Customer  43 was getting served at desserts at  65.912
+Customer  43 left desserts at  65.916
+Customer  45 entered desserts queue at  67.351
+Customer  45 was getting served at desserts at  67.351
+Customer  45 left desserts at  67.430
+Customer  46 entered desserts queue at  67.741
+Customer  46 was getting served at desserts at  67.741
+Customer  46 left desserts at  67.770
+Customer  47 entered desserts queue at  68.251
+Customer  47 was getting served at desserts at  68.251
+Customer  47 left desserts at  68.257
+Customer  48 entered desserts queue at  68.749
+Customer  48 was getting served at desserts at  68.749
+Customer  48 left desserts at  68.789
+Customer  49 entered desserts queue at  70.670
+Customer  49 was getting served at desserts at  70.670
+Customer  49 left desserts at  70.778
+Customer  50 entered desserts queue at  72.734
+Customer  50 was getting served at desserts at  72.734
+Customer  50 left desserts at  72.736
+Customer  51 entered desserts queue at  73.941
+Customer  51 was getting served at desserts at  73.941
+Customer  51 left desserts at  74.061
+Customer  52 entered desserts queue at  75.707
+Customer  52 was getting served at desserts at  75.707
+Customer  53 entered desserts queue at  75.834
+Customer  52 left desserts at  75.859
+Customer  53 was getting served at desserts at  75.859
+Customer  53 left desserts at  75.884
+Customer  54 entered desserts queue at  75.947
+Customer  54 was getting served at desserts at  75.947
+Customer  54 left desserts at  76.024
+Customer  55 entered desserts queue at  76.527
+Customer  55 was getting served at desserts at  76.527
+Customer  55 left desserts at  76.764
+Customer  56 entered desserts queue at  76.823
+Customer  56 was getting served at desserts at  76.823
+Customer  56 left desserts at  76.959
+Customer  57 entered desserts queue at  77.367
+Customer  57 was getting served at desserts at  77.367
+Customer  57 left desserts at  77.451
+Customer  59 entered desserts queue at  78.721
+Customer  59 was getting served at desserts at  78.721
+Customer  59 left desserts at  78.744
+Customer  60 entered desserts queue at  79.192
+Customer  60 was getting served at desserts at  79.192
+Customer  60 left desserts at  79.227
+Customer  61 entered desserts queue at  79.359
+Customer  61 was getting served at desserts at  79.359
+Customer  61 left desserts at  79.415
+Customer  64 entered desserts queue at  80.489
+Customer  64 was getting served at desserts at  80.489
+Customer  64 left desserts at  80.565
+Customer  65 entered desserts queue at  80.616
+Customer  65 was getting served at desserts at  80.616
+Customer  65 left desserts at  80.618
+Customer  66 entered desserts queue at  81.362
+Customer  66 was getting served at desserts at  81.362
+Customer  66 left desserts at  81.371
+Customer  67 entered desserts queue at  83.154
+Customer  67 was getting served at desserts at  83.154
+Customer  67 left desserts at  83.167
+Customer  68 entered desserts queue at  84.705
+Customer  68 was getting served at desserts at  84.705
+Customer  68 left desserts at  84.783
+Customer  69 entered desserts queue at  86.512
+Customer  69 was getting served at desserts at  86.512
+Customer  69 left desserts at  86.543
+Customer  70 entered desserts queue at  87.998
+Customer  70 was getting served at desserts at  87.998
+Customer  70 left desserts at  88.099
+Customer  71 entered desserts queue at  88.155
+Customer  71 was getting served at desserts at  88.155
+Customer  71 left desserts at  88.354
+Customer  72 entered desserts queue at  88.597
+Customer  72 was getting served at desserts at  88.597
+Customer  72 left desserts at  88.608
+Customer  73 entered desserts queue at  88.802
+Customer  73 was getting served at desserts at  88.802
+Customer  73 left desserts at  88.850
+Customer  74 entered desserts queue at  90.176
+Customer  74 was getting served at desserts at  90.176
+Customer  74 left desserts at  90.319
+Customer  75 entered desserts queue at  90.794
+Customer  75 was getting served at desserts at  90.794
+Customer  75 left desserts at  90.830
+Customer  76 entered desserts queue at  91.147
+Customer  76 was getting served at desserts at  91.147
+Customer  76 left desserts at  91.175
+Customer  77 entered desserts queue at  92.024
+Customer  77 was getting served at desserts at  92.024
+Customer  77 left desserts at  92.069
+Customer  78 entered desserts queue at  92.294
+Customer  78 was getting served at desserts at  92.294
+Customer  78 left desserts at  92.413
+Customer  80 entered desserts queue at  92.649
+Customer  80 was getting served at desserts at  92.649
+Customer  80 left desserts at  92.976
+Customer  83 entered desserts queue at  94.163
+Customer  83 was getting served at desserts at  94.163
+Customer  83 left desserts at  94.214
+Customer  84 entered desserts queue at  94.311
+Customer  84 was getting served at desserts at  94.311
+Customer  84 left desserts at  94.315
+Customer  86 entered desserts queue at  97.133
+Customer  86 was getting served at desserts at  97.133
+Customer  86 left desserts at  97.220
+Customer  88 entered desserts queue at  98.356
+Customer  88 was getting served at desserts at  98.356
+Customer  88 left desserts at  98.359
+Customer  89 entered desserts queue at  99.639
+Customer  89 was getting served at desserts at  99.639
+Customer  89 left desserts at  99.669
+Customer  90 entered desserts queue at 100.076
+Customer  90 was getting served at desserts at 100.076
+Customer  91 entered desserts queue at 100.163
+Customer  90 left desserts at 100.279
+Customer  91 was getting served at desserts at 100.279
+Customer  91 left desserts at 100.280
+Customer  92 entered desserts queue at 100.342
+Customer  92 was getting served at desserts at 100.342
+Customer  92 left desserts at 100.584
+Customer  93 entered desserts queue at 101.173
+Customer  93 was getting served at desserts at 101.173
+Customer  93 left desserts at 101.175
+Customer  94 entered desserts queue at 101.552
+Customer  94 was getting served at desserts at 101.552
+Customer  94 left desserts at 101.610
+Customer  95 entered desserts queue at 102.153
+Customer  95 was getting served at desserts at 102.153
+Customer  95 left desserts at 102.239
+Customer  96 entered desserts queue at 102.632
+Customer  96 was getting served at desserts at 102.632
+Customer  96 left desserts at 102.648
+Customer  98 entered desserts queue at 104.055
+Customer  98 was getting served at desserts at 104.055
+Customer  98 left desserts at 104.148
+Customer  99 entered desserts queue at 105.991
+Customer  99 was getting served at desserts at 105.991
+Customer  99 left desserts at 106.017
+Customer 100 entered desserts queue at 106.123
+Customer 100 was getting served at desserts at 106.123
+Customer 100 left desserts at 106.303
+Customer 101 entered desserts queue at 107.949
+Customer 101 was getting served at desserts at 107.949
+Customer 101 left desserts at 107.990
+Customer 102 entered desserts queue at 108.194
+Customer 102 was getting served at desserts at 108.194
+Customer 102 left desserts at 108.268
+Customer 103 entered desserts queue at 109.964
+Customer 103 was getting served at desserts at 109.964
+Customer 103 left desserts at 109.984
+Customer 104 entered desserts queue at 111.062
+Customer 104 was getting served at desserts at 111.062
+Customer 104 left desserts at 111.080
+Customer 105 entered desserts queue at 111.440
+Customer 105 was getting served at desserts at 111.440
+Customer 105 left desserts at 111.525
+Customer 106 entered desserts queue at 111.608
+Customer 106 was getting served at desserts at 111.608
+Customer 106 left desserts at 111.635
+Customer 107 entered desserts queue at 113.695
+Customer 107 was getting served at desserts at 113.695
+Customer 107 left desserts at 113.825
+Customer 108 entered desserts queue at 116.246
+Customer 108 was getting served at desserts at 116.246
+Customer 108 left desserts at 116.309
+Customer 109 entered desserts queue at 116.513
+Customer 109 was getting served at desserts at 116.513
+Customer 109 left desserts at 116.575
+Customer 110 entered desserts queue at 116.901
+Customer 110 was getting served at desserts at 116.901
+Customer 110 left desserts at 116.947
+Customer 111 entered desserts queue at 116.963
+Customer 111 was getting served at desserts at 116.963
+Customer 111 left desserts at 117.044
+Customer 113 entered desserts queue at 119.187
+Customer 113 was getting served at desserts at 119.187
+Customer 113 left desserts at 119.212
+Customer 115 entered desserts queue at 119.462
+Customer 115 was getting served at desserts at 119.462
+Customer 114 entered desserts queue at 119.464
+Customer 115 left desserts at 119.531
+Customer 114 was getting served at desserts at 119.531
+Customer 114 left desserts at 119.703
+Customer 116 entered desserts queue at 119.969
+Customer 116 was getting served at desserts at 119.969
+Customer 116 left desserts at 120.007
+Customer 117 entered desserts queue at 120.292
+Customer 117 was getting served at desserts at 120.292
+Customer 117 left desserts at 120.360
+Customer 118 entered desserts queue at 127.530
+Customer 118 was getting served at desserts at 127.530
+Customer 118 left desserts at 127.570
+Customer 119 entered desserts queue at 128.456
+Customer 119 was getting served at desserts at 128.456
+Customer 119 left desserts at 128.532
+Customer 121 entered desserts queue at 130.839
+Customer 121 was getting served at desserts at 130.839
+Customer 121 left desserts at 130.914
+Customer 122 entered desserts queue at 132.384
+Customer 122 was getting served at desserts at 132.384
+Customer 122 left desserts at 132.400
+Customer 123 entered desserts queue at 132.515
+Customer 123 was getting served at desserts at 132.515
+Customer 123 left desserts at 132.518
+Customer 124 entered desserts queue at 133.496
+Customer 124 was getting served at desserts at 133.496
+Customer 124 left desserts at 133.497
+Customer 125 entered desserts queue at 135.186
+Customer 125 was getting served at desserts at 135.186
+Customer 125 left desserts at 135.248
+Customer 127 entered desserts queue at 136.990
+Customer 127 was getting served at desserts at 136.990
+Customer 127 left desserts at 137.067
+Customer 128 entered desserts queue at 139.400
+Customer 128 was getting served at desserts at 139.400
+Customer 128 left desserts at 139.457
+Customer 129 entered desserts queue at 141.519
+Customer 129 was getting served at desserts at 141.519
+Customer 129 left desserts at 141.602
+Customer 130 entered desserts queue at 141.921
+Customer 130 was getting served at desserts at 141.921
+Customer 130 left desserts at 141.961
+Customer 131 entered desserts queue at 143.204
+Customer 131 was getting served at desserts at 143.204
+Customer 131 left desserts at 143.242
+Customer 133 entered desserts queue at 143.489
+Customer 133 was getting served at desserts at 143.489
+Customer 133 left desserts at 143.523
+Customer 134 entered desserts queue at 144.285
+Customer 134 was getting served at desserts at 144.285
+Customer 134 left desserts at 144.385
+Customer 135 entered desserts queue at 144.715
+Customer 135 was getting served at desserts at 144.715
+Customer 135 left desserts at 144.816
+Customer 136 entered desserts queue at 148.255
+Customer 136 was getting served at desserts at 148.255
+Customer 136 left desserts at 148.410
+Customer 138 entered desserts queue at 151.488
+Customer 138 was getting served at desserts at 151.488
+Customer 138 left desserts at 151.626
+Customer 139 entered desserts queue at 151.981
+Customer 139 was getting served at desserts at 151.981
+Customer 139 left desserts at 152.176
+Customer 140 entered desserts queue at 152.396
+Customer 140 was getting served at desserts at 152.396
+Customer 140 left desserts at 152.448
+Customer 141 entered desserts queue at 154.834
+Customer 141 was getting served at desserts at 154.834
+Customer 141 left desserts at 154.861
+Customer 142 entered desserts queue at 155.298
+Customer 142 was getting served at desserts at 155.298
+Customer 142 left desserts at 155.520
+Customer 143 entered desserts queue at 155.670
+Customer 143 was getting served at desserts at 155.670
+Customer 143 left desserts at 155.801
+Customer 144 entered desserts queue at 156.724
+Customer 144 was getting served at desserts at 156.724
+Customer 144 left desserts at 156.777
+Customer 145 entered desserts queue at 157.955
+Customer 145 was getting served at desserts at 157.955
+Customer 145 left desserts at 157.965
+Customer 147 entered desserts queue at 159.670
+Customer 147 was getting served at desserts at 159.670
+Customer 146 entered desserts queue at 159.683
+Customer 147 left desserts at 159.706
+Customer 146 was getting served at desserts at 159.706
+Customer 146 left desserts at 159.798
+Customer 148 entered desserts queue at 161.292
+Customer 148 was getting served at desserts at 161.292
+Customer 148 left desserts at 161.303
+Customer 151 entered desserts queue at 162.884
+Customer 151 was getting served at desserts at 162.884
+Customer 150 entered desserts queue at 162.921
+Customer 151 left desserts at 162.944
+Customer 150 was getting served at desserts at 162.944
+Customer 150 left desserts at 163.031
+Customer 152 entered desserts queue at 164.094
+Customer 152 was getting served at desserts at 164.094
+Customer 152 left desserts at 164.207
+Customer 153 entered desserts queue at 164.322
+Customer 153 was getting served at desserts at 164.322
+Customer 153 left desserts at 164.329
+Customer 154 entered desserts queue at 164.993
+Customer 154 was getting served at desserts at 164.993
+Customer 154 left desserts at 165.039
+Customer 157 entered desserts queue at 169.864
+Customer 157 was getting served at desserts at 169.864
+Customer 157 left desserts at 170.113
+Customer 158 entered desserts queue at 173.217
+Customer 158 was getting served at desserts at 173.217
+Customer 159 entered desserts queue at 173.295
+Customer 158 left desserts at 173.685
+Customer 159 was getting served at desserts at 173.685
+Customer 159 left desserts at 174.234
+Customer 160 entered desserts queue at 174.741
+Customer 160 was getting served at desserts at 174.741
+Customer 160 left desserts at 175.233
+Customer 161 entered desserts queue at 175.837
+Customer 161 was getting served at desserts at 175.837
+Customer 161 left desserts at 175.859
+Customer 162 entered desserts queue at 176.541
+Customer 162 was getting served at desserts at 176.541
+Customer 162 left desserts at 177.192
+Customer 163 entered desserts queue at 178.178
+Customer 163 was getting served at desserts at 178.178
+Customer 163 left desserts at 178.190
+Customer 164 entered desserts queue at 181.762
+Customer 164 was getting served at desserts at 181.762
+Customer 164 left desserts at 181.777
+Customer 165 entered desserts queue at 184.549
+Customer 165 was getting served at desserts at 184.549
+Customer 165 left desserts at 184.561
+Customer 166 entered desserts queue at 196.182
+Customer 166 was getting served at desserts at 196.182
+Customer 166 left desserts at 196.196
+Customer 167 entered desserts queue at 200.380
+Customer 167 was getting served at desserts at 200.380
+Customer 167 left desserts at 200.383
+Customer 168 entered desserts queue at 200.493
+Customer 168 was getting served at desserts at 200.493
+Customer 168 left desserts at 200.549
+Customer 169 entered desserts queue at 206.621
+Customer 169 was getting served at desserts at 206.621
+Customer 169 left desserts at 206.653
+Customer 170 entered desserts queue at 214.307
+Customer 170 was getting served at desserts at 214.307
+Customer 170 left desserts at 214.331
+Customer 171 entered desserts queue at 215.421
+Customer 171 was getting served at desserts at 215.421
+Customer 171 left desserts at 215.474
+Customer 172 entered desserts queue at 220.536
+Customer 172 was getting served at desserts at 220.536
+Customer 172 left desserts at 220.564
+Customer 174 entered desserts queue at 242.839
+Customer 174 was getting served at desserts at 242.839
+Customer 174 left desserts at 242.934
+Customer 176 entered desserts queue at 269.842
+Customer 176 was getting served at desserts at 269.842
+Customer 176 left desserts at 269.855
