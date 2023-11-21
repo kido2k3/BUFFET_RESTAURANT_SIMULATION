@@ -93,17 +93,17 @@ brief:
 
 class Restaurant:
     def __init__(self, env):
-        self.NUMBER_OF_TICKET_SERVERS = 1
-        self.TIME_TICKET_SERVICE = 1
-        self.NUMBER_OF_DRINKS_SERVICE = 10
-        self.TIME_DRINKS_SERVICE = 10
-        self.NUMBER_OF_APPETIZER_SERVICE = 10
-        self.TIME_OF_APPETIZER_SERVICE = 10
-        self.NUMBER_OF_MAINCOURSE_SERVICE = 10
-        self.TIME_OF_MAINCOURSE_SERVICE = 10
-        self.NUMBER_OF_DESSERTS_SERVICE = 10 
-        self.TIME_DESSERTS_SERVICE = 10
-        self.TIME_SEAT = 2
+        self.NUMBER_OF_TICKET_SERVERS = 2
+        self.TIME_TICKET_SERVICE = 10
+        self.NUMBER_OF_DRINKS_SERVICE = 1
+        self.TIME_DRINKS_SERVICE = 20
+        self.NUMBER_OF_APPETIZER_SERVICE = 2
+        self.TIME_OF_APPETIZER_SERVICE = 15
+        self.NUMBER_OF_MAINCOURSE_SERVICE = 3
+        self.TIME_OF_MAINCOURSE_SERVICE = 12
+        self.NUMBER_OF_DESSERTS_SERVICE = 1
+        self.TIME_DESSERTS_SERVICE = 12
+        self.TIME_SEAT = 0.05
         self.NUMBER_OF_SEATS= 50
 
         self.ticket_queue_size = 0
@@ -126,6 +126,7 @@ class Restaurant:
         self.num_use_appetizer = 0
         self.num_use_drinks = 0
         self.num_use_desserts = 0
+        self.num_time_seat = 0
         self.num_rated = 0 #number of times use a service
 
         self.sum_serve_time_ticket  = 0
@@ -133,6 +134,7 @@ class Restaurant:
         self.sum_serve_time_appetizer = 0
         self.sum_serve_time_drinks = 0
         self.sum_serve_time_desserts = 0 #for calculating average value
+        self.sum_time_seat_eat= 0
         self.sum_rated = 0
         self.sum_rated_no_neg = 0 #rating (< 0) = 0
 
@@ -297,6 +299,8 @@ class Restaurant:
             print(f'Customer {consumer.id:3} entered a seat to eat at {env.now:7.3f}')
             serve_time = random.expovariate(self.TIME_SEAT)
             yield env.timeout(serve_time)
+            self.num_time_seat += 1
+            self.sum_time_seat_eat += serve_time
             print(f'Customer {consumer.id:3} has finished their dinner at {env.now:7.3f}')
             self.leave_n_rate(env,consumer)
 
@@ -357,7 +361,8 @@ print(f'Drinks -  Uses: {restaurant.num_use_drinks}     AverageServe: {restauran
 print(f'Appetizer -  Uses: {restaurant.num_use_appetizer}     AverageServe: {restaurant.sum_serve_time_appetizer/restaurant.num_use_appetizer:7.3f}     WaitLong: {restaurant.num_appetizer_wait_long}')
 print(f'mainCourses -  Uses: {restaurant.num_use_mainCourses}     AverageServe: {restaurant.sum_serve_time_mainCourses/restaurant.num_use_mainCourses:7.3f}     WaitLong: {restaurant.num_mainCourses_wait_long}')
 print(f'Desserts -  Uses: {restaurant.num_use_desserts}     AverageServe: {restaurant.sum_serve_time_desserts/restaurant.num_use_desserts:7.3f}     WaitLong: {restaurant.num_desserts_wait_long}')
-print(f'Number of rating: {restaurant.num_rated}    AverageRating:{restaurant.sum_rated/restaurant.num_rated}   AverageRating_MinZero:{restaurant.sum_rated_no_neg/restaurant.num_rated}')
+print(f'Average time that customers spent eating at the table: {restaurant.sum_time_seat_eat/restaurant.num_time_seat:7.3f}')
+print(f'Number of rating: {restaurant.num_rated}    AverageRating: {restaurant.sum_rated/restaurant.num_rated}   AverageRating_MinZero: {restaurant.sum_rated_no_neg/restaurant.num_rated}')
 print(f'There were {restaurant.num_Cus_leave_ticketFull} times that customers left the restaurant because the ticket queue was full')
 print(f'There were {restaurant.num_Cus_leave_resFull} times that customers left the restaurant because the restaurant was full')
 print(f'There were {restaurant.num_cus_wait_long} times that customers had to wait too long ({restaurant.num_ticket_wait_long + restaurant.num_drinks_wait_long + restaurant.num_appetizer_wait_long + restaurant.num_mainCourses_wait_long + restaurant.num_desserts_wait_long})')
