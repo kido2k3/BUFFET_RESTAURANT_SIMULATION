@@ -368,7 +368,7 @@ class Restaurant:
 
         if (
             self.event_full.triggered
-        ):  # if the restaurant was full before, untriggerd this because a customer is leaving
+        ):  # if the restaurant was full before, untriggered this because a customer is leaving
             self.event_full = simpy.Event(env)
 
         print_log('log_seat_eat.txt',
