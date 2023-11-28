@@ -10,7 +10,7 @@ RATE_TAKING_FOOD = [0.9, 0.8, 0.99, 0.85]
 # currently only used for ticket queue-  maximum number of customers in ALL of the ticket queue
 MAX_QUEUE_SIZE = 10
 
-random.seed(RANDOM_SEED)
+random.seed(223)
 
 
 def erase_log():
@@ -43,7 +43,7 @@ def print_log(file_name, str):
 brief:  
     Variable:    
         id --> name of customers
-        arrival_time --> the time when customers arrived at the restaurant
+        arrival_time --> the time when customers arrived at each queue
         waiting_time --> the period of time when customers waited in each queue
         rating --> The rate star of customers to the restaurant
         left_time --> the time when customers left the restaurant
@@ -66,6 +66,8 @@ class Customer:
         self.left_time = 0
         self.taking_food = [1, 1, 1, 1]
         self.not_want_to_get_food = 1
+        self.arrival_time_res = 0
+        self.left_ticket_time = 0
 
     def classify(self):
         for i in range(4):
@@ -231,7 +233,7 @@ class Restaurant:
             if consumer.set_waiting_time(env.now - consumer.arrival_time, ' in ticket'):
                 self.num_cus_wait_long += 1
                 self.num_ticket_wait_long += 1
-
+            consumer.left_ticket_time = env.now
             print_log('log_ticket.txt',
                       f"Customer {consumer.id:3} left ticket at {env.now:7.3f}, the restaurant has {self.num_cus_in} customers\n")
             self.choose_food(env, consumer)
@@ -381,6 +383,7 @@ def generate(env, TIME_INTERVAL, server_generator, restaurant):
         i = 0
         while True:
             consumer = Customer(i, arrival_time=env.now)
+            consumer.arrival_time_res = env.now
             consumer.classify()
             print_log('log_generate.txt',
                       f"Customer {consumer.id:3} arrived at {consumer.arrival_time:7.3f} and entered ticket queue (cus_in:{restaurant.num_cus_in})\n")

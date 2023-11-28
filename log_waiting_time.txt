@@ -1,140 +1,134 @@
-Customer 1 waited for 0.138145 in main course and decreased the rating by 0.5
-Customer 2 waited for 0.210102 in appetizer and decreased the rating by 0.5
-Customer 3 waited for 0.137144 in main course and decreased the rating by 0.5
-Customer 4 waited for 0.216676 in ticket and decreased the rating by 0.5
-Customer 5 waited for 0.201353 in ticket and decreased the rating by 0.5
-Customer 7 waited for 0.203618 in main course and decreased the rating by 0.5
-Customer 11 waited for 0.216099 in ticket and decreased the rating by 0.5
-Customer 12 waited for 0.307512 in ticket and decreased the rating by 1.0
-Customer 11 waited for 0.297630 in desserts and decreased the rating by 1.0
-Customer 12 waited for 0.153589 in desserts and decreased the rating by 0.5
-Customer 13 waited for 0.175806 in main course and decreased the rating by 0.5
-Customer 14 waited for 0.141079 in main course and decreased the rating by 0.5
-Customer 14 waited for 0.244551 in desserts and decreased the rating by 0.5
-Customer 15 waited for 0.176257 in appetizer and decreased the rating by 0.5
-Customer 15 waited for 0.444054 in desserts and decreased the rating by 1.5
-Customer 17 waited for 0.235831 in ticket and decreased the rating by 0.5
-Customer 18 waited for 0.137304 in main course and decreased the rating by 0.5
-Customer 20 waited for 0.289471 in main course and decreased the rating by 1.0
-Customer 21 waited for 0.155154 in appetizer and decreased the rating by 0.5
-Customer 24 waited for 0.220989 in ticket and decreased the rating by 0.5
-Customer 25 waited for 0.227405 in main course and decreased the rating by 0.5
-Customer 25 waited for 0.135347 in drinks and decreased the rating by 0.5
-Customer 27 waited for 0.412604 in ticket and decreased the rating by 1.5
-Customer 27 waited for 0.186382 in appetizer and decreased the rating by 0.5
-Customer 30 waited for 0.135182 in ticket and decreased the rating by 0.5
-Customer 31 waited for 0.191038 in main course and decreased the rating by 0.5
-Customer 32 waited for 0.303617 in desserts and decreased the rating by 1.0
-Customer 32 waited for 0.142142 in appetizer and decreased the rating by 0.5
-Customer 33 waited for 0.135056 in main course and decreased the rating by 0.5
-Customer 34 waited for 0.166475 in main course and decreased the rating by 0.5
-Customer 37 waited for 0.259797 in ticket and decreased the rating by 0.5
-Customer 38 waited for 0.148674 in drinks and decreased the rating by 0.5
-Customer 42 waited for 0.181063 in desserts and decreased the rating by 0.5
-Customer 43 waited for 0.196926 in ticket and decreased the rating by 0.5
-Customer 43 waited for 0.207883 in main course and decreased the rating by 0.5
-Customer 45 waited for 0.299652 in ticket and decreased the rating by 1.0
-Customer 44 waited for 0.367827 in main course and decreased the rating by 1.0
-Customer 48 waited for 0.143009 in drinks and decreased the rating by 0.5
-Customer 50 waited for 0.394879 in ticket and decreased the rating by 1.0
-Customer 52 waited for 0.180127 in ticket and decreased the rating by 0.5
-Customer 52 waited for 0.464593 in drinks and decreased the rating by 1.5
-Customer 53 waited for 0.261099 in drinks and decreased the rating by 0.5
-Customer 52 waited for 0.152314 in desserts and decreased the rating by 0.5
-Customer 54 waited for 0.298800 in ticket and decreased the rating by 1.0
-Customer 54 waited for 0.278705 in main course and decreased the rating by 1.0
-Customer 55 waited for 0.236519 in desserts and decreased the rating by 0.5
-Customer 56 waited for 0.317421 in ticket and decreased the rating by 1.0
-Customer 55 waited for 0.158256 in main course and decreased the rating by 0.5
-Customer 56 waited for 0.136456 in desserts and decreased the rating by 0.5
-Customer 57 waited for 0.143986 in main course and decreased the rating by 0.5
-Customer 69 waited for 0.147433 in drinks and decreased the rating by 0.5
-Customer 71 waited for 0.199204 in desserts and decreased the rating by 0.5
-Customer 73 waited for 0.254075 in ticket and decreased the rating by 0.5
-Customer 74 waited for 0.196981 in ticket and decreased the rating by 0.5
-Customer 74 waited for 0.387868 in drinks and decreased the rating by 1.0
-Customer 74 waited for 0.143560 in desserts and decreased the rating by 0.5
-Customer 75 waited for 0.144016 in ticket and decreased the rating by 0.5
-Customer 74 waited for 0.206484 in main course and decreased the rating by 0.5
-Customer 75 waited for 0.386075 in appetizer and decreased the rating by 1.0
-Customer 76 waited for 0.347555 in ticket and decreased the rating by 1.0
-Customer 76 waited for 0.139973 in main course and decreased the rating by 0.5
-Customer 77 waited for 0.133455 in appetizer and decreased the rating by 0.5
-Customer 78 waited for 0.141240 in ticket and decreased the rating by 0.5
-Customer 80 waited for 0.327028 in desserts and decreased the rating by 1.0
-Customer 81 waited for 0.143155 in main course and decreased the rating by 0.5
-Customer 82 waited for 0.133628 in appetizer and decreased the rating by 0.5
-Customer 83 waited for 0.143916 in ticket and decreased the rating by 0.5
-Customer 83 waited for 0.135811 in appetizer and decreased the rating by 0.5
-Customer 87 waited for 0.350512 in ticket and decreased the rating by 1.0
-Customer 87 waited for 0.205477 in appetizer and decreased the rating by 0.5
-Customer 88 waited for 0.496855 in main course and decreased the rating by 1.5
-Customer 90 waited for 0.203324 in desserts and decreased the rating by 0.5
-Customer 92 waited for 0.242060 in desserts and decreased the rating by 0.5
-Customer 94 waited for 0.136519 in ticket and decreased the rating by 0.5
-Customer 97 waited for 0.147895 in main course and decreased the rating by 0.5
-Customer 96 waited for 0.204498 in main course and decreased the rating by 0.5
-Customer 97 waited for 0.171148 in drinks and decreased the rating by 0.5
-Customer 98 waited for 0.284955 in main course and decreased the rating by 1.0
-Customer 100 waited for 0.179683 in desserts and decreased the rating by 0.5
-Customer 100 waited for 0.200097 in main course and decreased the rating by 0.5
-Customer 101 waited for 0.145511 in appetizer and decreased the rating by 0.5
-Customer 102 waited for 0.180536 in main course and decreased the rating by 0.5
-Customer 103 waited for 0.200460 in appetizer and decreased the rating by 0.5
-Customer 104 waited for 0.198409 in appetizer and decreased the rating by 0.5
-Customer 105 waited for 0.380958 in ticket and decreased the rating by 1.0
-Customer 110 waited for 0.332496 in ticket and decreased the rating by 1.0
-Customer 109 waited for 0.328093 in drinks and decreased the rating by 1.0
-Customer 112 waited for 0.146518 in ticket and decreased the rating by 0.5
-Customer 112 waited for 0.167178 in main course and decreased the rating by 0.5
-Customer 114 waited for 0.139174 in main course and decreased the rating by 0.5
-Customer 114 waited for 0.238790 in desserts and decreased the rating by 0.5
-Customer 115 waited for 0.168804 in main course and decreased the rating by 0.5
-Customer 114 waited for 0.172728 in drinks and decreased the rating by 0.5
-Customer 117 waited for 0.170610 in ticket and decreased the rating by 0.5
-Customer 121 waited for 0.208171 in drinks and decreased the rating by 0.5
-Customer 122 waited for 0.290633 in ticket and decreased the rating by 1.0
-Customer 125 waited for 0.136284 in appetizer and decreased the rating by 0.5
-Customer 126 waited for 0.151013 in ticket and decreased the rating by 0.5
-Customer 126 waited for 0.196970 in main course and decreased the rating by 0.5
-Customer 127 waited for 0.170897 in ticket and decreased the rating by 0.5
-Customer 131 waited for 0.336586 in main course and decreased the rating by 1.0
-Customer 133 waited for 0.148928 in ticket and decreased the rating by 0.5
-Customer 132 waited for 0.392415 in main course and decreased the rating by 1.0
-Customer 135 waited for 0.167764 in ticket and decreased the rating by 0.5
-Customer 136 waited for 0.301940 in ticket and decreased the rating by 1.0
-Customer 136 waited for 0.245846 in main course and decreased the rating by 0.5
-Customer 136 waited for 0.155054 in desserts and decreased the rating by 0.5
-Customer 137 waited for 0.180254 in ticket and decreased the rating by 0.5
-Customer 137 waited for 0.139376 in appetizer and decreased the rating by 0.5
-Customer 138 waited for 0.137976 in desserts and decreased the rating by 0.5
-Customer 139 waited for 0.195262 in desserts and decreased the rating by 0.5
-Customer 140 waited for 0.282443 in main course and decreased the rating by 1.0
-Customer 142 waited for 0.222169 in desserts and decreased the rating by 0.5
-Customer 144 waited for 0.177851 in ticket and decreased the rating by 0.5
-Customer 146 waited for 0.181209 in ticket and decreased the rating by 0.5
-Customer 148 waited for 0.137562 in ticket and decreased the rating by 0.5
-Customer 149 waited for 0.329487 in main course and decreased the rating by 1.0
-Customer 150 waited for 0.149696 in ticket and decreased the rating by 0.5
-Customer 150 waited for 0.167368 in main course and decreased the rating by 0.5
-Customer 153 waited for 0.443179 in main course and decreased the rating by 1.5
-Customer 155 waited for 0.326116 in main course and decreased the rating by 1.0
-Customer 156 waited for 0.305314 in ticket and decreased the rating by 1.0
-Customer 157 waited for 0.248761 in desserts and decreased the rating by 0.5
-Customer 157 waited for 0.247706 in main course and decreased the rating by 0.5
-Customer 158 waited for 0.161598 in drinks and decreased the rating by 0.5
-Customer 158 waited for 0.468098 in desserts and decreased the rating by 1.5
-Customer 159 waited for 0.938979 in desserts and decreased the rating by 3.5
-Customer 160 waited for 0.228946 in ticket and decreased the rating by 0.5
-Customer 160 waited for 0.491723 in desserts and decreased the rating by 1.5
-Customer 160 waited for 0.285700 in main course and decreased the rating by 1.0
-Customer 162 waited for 0.650978 in desserts and decreased the rating by 2.0
-Customer 164 waited for 0.202656 in ticket and decreased the rating by 0.5
-Customer 164 waited for 0.227445 in main course and decreased the rating by 0.5
-Customer 165 waited for 0.155864 in main course and decreased the rating by 0.5
-Customer 166 waited for 0.154043 in main course and decreased the rating by 0.5
-Customer 169 waited for 0.308663 in main course and decreased the rating by 1.0
-Customer 170 waited for 0.166359 in main course and decreased the rating by 0.5
-Customer 171 waited for 0.145233 in drinks and decreased the rating by 0.5
-Customer 174 waited for 0.145396 in main course and decreased the rating by 0.5
-Customer 175 waited for 0.279604 in ticket and decreased the rating by 1.0
+Customer 0 waited for 0.158419 in desserts and decreased the rating by 0.5
+Customer 2 waited for 0.471891 in ticket and decreased the rating by 1.5
+Customer 2 waited for 0.247455 in appetizer and decreased the rating by 0.5
+Customer 4 waited for 0.185441 in ticket and decreased the rating by 0.5
+Customer 6 waited for 0.174219 in appetizer and decreased the rating by 0.5
+Customer 5 waited for 0.203623 in desserts and decreased the rating by 0.5
+Customer 6 waited for 0.311759 in main course and decreased the rating by 1.0
+Customer 7 waited for 0.162252 in ticket and decreased the rating by 0.5
+Customer 6 waited for 0.247250 in desserts and decreased the rating by 0.5
+Customer 7 waited for 0.192763 in appetizer and decreased the rating by 0.5
+Customer 10 waited for 0.401710 in ticket and decreased the rating by 1.5
+Customer 11 waited for 0.249990 in ticket and decreased the rating by 0.5
+Customer 16 waited for 0.175096 in main course and decreased the rating by 0.5
+Customer 19 waited for 0.199119 in ticket and decreased the rating by 0.5
+Customer 21 waited for 0.235746 in ticket and decreased the rating by 0.5
+Customer 20 waited for 0.181082 in appetizer and decreased the rating by 0.5
+Customer 22 waited for 0.170904 in ticket and decreased the rating by 0.5
+Customer 24 waited for 0.214374 in ticket and decreased the rating by 0.5
+Customer 24 waited for 0.210219 in main course and decreased the rating by 0.5
+Customer 25 waited for 0.186430 in desserts and decreased the rating by 0.5
+Customer 27 waited for 0.149826 in ticket and decreased the rating by 0.5
+Customer 29 waited for 0.173747 in drinks and decreased the rating by 0.5
+Customer 30 waited for 0.169843 in main course and decreased the rating by 0.5
+Customer 36 waited for 0.178366 in drinks and decreased the rating by 0.5
+Customer 37 waited for 0.141154 in main course and decreased the rating by 0.5
+Customer 36 waited for 0.155969 in main course and decreased the rating by 0.5
+Customer 38 waited for 0.321658 in ticket and decreased the rating by 1.0
+Customer 39 waited for 0.195697 in appetizer and decreased the rating by 0.5
+Customer 39 waited for 0.157526 in drinks and decreased the rating by 0.5
+Customer 40 waited for 0.138213 in ticket and decreased the rating by 0.5
+Customer 40 waited for 0.168215 in desserts and decreased the rating by 0.5
+Customer 41 waited for 0.139400 in ticket and decreased the rating by 0.5
+Customer 42 waited for 0.211275 in ticket and decreased the rating by 0.5
+Customer 43 waited for 0.175048 in ticket and decreased the rating by 0.5
+Customer 43 waited for 0.167257 in desserts and decreased the rating by 0.5
+Customer 45 waited for 0.346122 in ticket and decreased the rating by 1.0
+Customer 47 waited for 0.199071 in desserts and decreased the rating by 0.5
+Customer 45 waited for 0.282704 in desserts and decreased the rating by 1.0
+Customer 48 waited for 0.150116 in appetizer and decreased the rating by 0.5
+Customer 51 waited for 0.356766 in ticket and decreased the rating by 1.0
+Customer 53 waited for 0.174906 in ticket and decreased the rating by 0.5
+Customer 53 waited for 0.163559 in main course and decreased the rating by 0.5
+Customer 54 waited for 0.191199 in appetizer and decreased the rating by 0.5
+Customer 55 waited for 0.226592 in main course and decreased the rating by 0.5
+Customer 56 waited for 0.213475 in appetizer and decreased the rating by 0.5
+Customer 57 waited for 0.207835 in ticket and decreased the rating by 0.5
+Customer 57 waited for 0.185137 in main course and decreased the rating by 0.5
+Customer 59 waited for 0.214631 in ticket and decreased the rating by 0.5
+Customer 59 waited for 0.142689 in main course and decreased the rating by 0.5
+Customer 60 waited for 0.180586 in desserts and decreased the rating by 0.5
+Customer 61 waited for 0.183960 in ticket and decreased the rating by 0.5
+Customer 62 waited for 0.186111 in appetizer and decreased the rating by 0.5
+Customer 61 waited for 0.419786 in desserts and decreased the rating by 1.5
+Customer 63 waited for 0.624512 in ticket and decreased the rating by 2.0
+Customer 63 waited for 0.193871 in main course and decreased the rating by 0.5
+Customer 65 waited for 0.140248 in ticket and decreased the rating by 0.5
+Customer 65 waited for 0.236520 in desserts and decreased the rating by 0.5
+Customer 65 waited for 0.136324 in main course and decreased the rating by 0.5
+Customer 66 waited for 0.295749 in ticket and decreased the rating by 1.0
+Customer 67 waited for 0.545688 in ticket and decreased the rating by 2.0
+Customer 68 waited for 0.228990 in ticket and decreased the rating by 0.5
+Customer 70 waited for 0.152194 in ticket and decreased the rating by 0.5
+Customer 66 waited for 0.319853 in desserts and decreased the rating by 1.0
+Customer 69 waited for 0.408148 in ticket and decreased the rating by 1.5
+Customer 70 waited for 0.335688 in desserts and decreased the rating by 1.0
+Customer 67 waited for 0.366356 in desserts and decreased the rating by 1.0
+Customer 68 waited for 0.362956 in desserts and decreased the rating by 1.0
+Customer 69 waited for 0.368477 in desserts and decreased the rating by 1.0
+Customer 73 waited for 0.264786 in ticket and decreased the rating by 0.5
+Customer 73 waited for 0.143928 in main course and decreased the rating by 0.5
+Customer 74 waited for 0.396262 in desserts and decreased the rating by 1.0
+Customer 73 waited for 0.297751 in desserts and decreased the rating by 1.0
+Customer 74 waited for 0.303904 in main course and decreased the rating by 1.0
+Customer 74 waited for 0.152411 in appetizer and decreased the rating by 0.5
+Customer 76 waited for 0.139135 in ticket and decreased the rating by 0.5
+Customer 76 waited for 0.288661 in desserts and decreased the rating by 1.0
+Customer 77 waited for 0.154981 in main course and decreased the rating by 0.5
+Customer 77 waited for 0.231127 in appetizer and decreased the rating by 0.5
+Customer 80 waited for 0.169222 in ticket and decreased the rating by 0.5
+Customer 81 waited for 0.136364 in main course and decreased the rating by 0.5
+Customer 81 waited for 0.190193 in desserts and decreased the rating by 0.5
+Customer 82 waited for 0.175987 in appetizer and decreased the rating by 0.5
+Customer 84 waited for 0.236102 in main course and decreased the rating by 0.5
+Customer 86 waited for 0.220048 in main course and decreased the rating by 0.5
+Customer 88 waited for 0.256698 in ticket and decreased the rating by 0.5
+Customer 89 waited for 0.236208 in main course and decreased the rating by 0.5
+Customer 89 waited for 0.210357 in appetizer and decreased the rating by 0.5
+Customer 91 waited for 0.136642 in desserts and decreased the rating by 0.5
+Customer 93 waited for 0.173039 in appetizer and decreased the rating by 0.5
+Customer 96 waited for 0.352479 in ticket and decreased the rating by 1.0
+Customer 96 waited for 0.136368 in main course and decreased the rating by 0.5
+Customer 97 waited for 0.229992 in appetizer and decreased the rating by 0.5
+Customer 99 waited for 0.183324 in ticket and decreased the rating by 0.5
+Customer 100 waited for 0.194028 in appetizer and decreased the rating by 0.5
+Customer 99 waited for 0.375189 in main course and decreased the rating by 1.0
+Customer 101 waited for 0.152175 in ticket and decreased the rating by 0.5
+Customer 101 waited for 0.170280 in main course and decreased the rating by 0.5
+Customer 103 waited for 0.173179 in ticket and decreased the rating by 0.5
+Customer 104 waited for 0.140582 in appetizer and decreased the rating by 0.5
+Customer 104 waited for 0.209307 in desserts and decreased the rating by 0.5
+Customer 104 waited for 0.225371 in drinks and decreased the rating by 0.5
+Customer 106 waited for 0.285070 in ticket and decreased the rating by 1.0
+Customer 106 waited for 0.168362 in desserts and decreased the rating by 0.5
+Customer 108 waited for 0.233972 in ticket and decreased the rating by 0.5
+Customer 109 waited for 0.528828 in main course and decreased the rating by 1.5
+Customer 109 waited for 0.248563 in appetizer and decreased the rating by 0.5
+Customer 110 waited for 0.173670 in drinks and decreased the rating by 0.5
+Customer 112 waited for 0.161233 in ticket and decreased the rating by 0.5
+Customer 115 waited for 0.178436 in ticket and decreased the rating by 0.5
+Customer 115 waited for 0.175595 in desserts and decreased the rating by 0.5
+Customer 120 waited for 0.282014 in ticket and decreased the rating by 1.0
+Customer 120 waited for 0.149031 in desserts and decreased the rating by 0.5
+Customer 125 waited for 0.237591 in appetizer and decreased the rating by 0.5
+Customer 126 waited for 0.149383 in drinks and decreased the rating by 0.5
+Customer 126 waited for 0.180922 in main course and decreased the rating by 0.5
+Customer 127 waited for 0.220237 in desserts and decreased the rating by 0.5
+Customer 127 waited for 0.176681 in main course and decreased the rating by 0.5
+Customer 128 waited for 0.179506 in desserts and decreased the rating by 0.5
+Customer 132 waited for 0.144915 in main course and decreased the rating by 0.5
+Customer 134 waited for 0.182582 in ticket and decreased the rating by 0.5
+Customer 135 waited for 0.299489 in appetizer and decreased the rating by 1.0
+Customer 136 waited for 0.150438 in ticket and decreased the rating by 0.5
+Customer 136 waited for 0.162835 in main course and decreased the rating by 0.5
+Customer 138 waited for 0.169927 in main course and decreased the rating by 0.5
+Customer 139 waited for 0.264295 in main course and decreased the rating by 0.5
+Customer 142 waited for 0.135791 in main course and decreased the rating by 0.5
+Customer 143 waited for 0.234875 in desserts and decreased the rating by 0.5
+Customer 144 waited for 0.219203 in ticket and decreased the rating by 0.5
+Customer 144 waited for 0.197814 in main course and decreased the rating by 0.5
+Customer 147 waited for 0.171328 in desserts and decreased the rating by 0.5
+Customer 149 waited for 0.142932 in ticket and decreased the rating by 0.5
+Customer 151 waited for 0.327872 in ticket and decreased the rating by 1.0
+Customer 152 waited for 0.258623 in main course and decreased the rating by 0.5
+Customer 152 waited for 0.138470 in desserts and decreased the rating by 0.5
